@@ -1,0 +1,1816 @@
+﻿ID,Patient Age,Patient Sex,Left-Fundus,Right-Fundus,Left-Diagnostic Keywords,Right-Diagnostic Keywords,N,D,G,C,A,H,M,O
+0,69,Female,0_left.jpg,0_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1,57,Male,1_left.jpg,1_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3,66,Male,3_left.jpg,3_right.jpg,normal fundus,branch retinal artery occlusion,0,0,0,0,0,0,0,1
+8,59,Male,8_left.jpg,8_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+9,54,Male,9_left.jpg,9_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+10,70,Male,10_left.jpg,10_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+14,55,Male,14_left.jpg,14_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+15,50,Male,15_left.jpg,15_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+16,54,Female,16_left.jpg,16_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+24,75,Female,24_left.jpg,24_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+25,63,Male,25_left.jpg,25_right.jpg,normal fundus,depigmentation of the retinal pigment epithelium,0,0,0,0,0,0,0,1
+27,33,Male,27_left.jpg,27_right.jpg,normal fundus,macular epiretinal membrane，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+29,59,Male,29_left.jpg,29_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+31,62,Male,31_left.jpg,31_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+33,60,Female,33_left.jpg,33_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+35,68,Female,35_left.jpg,35_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+37,41,Male,37_left.jpg,37_right.jpg,macular epiretinal membrane，mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+38,75,Male,38_left.jpg,38_right.jpg,macular hole,normal fundus,0,0,0,0,0,0,0,1
+42,89,Male,42_left.jpg,42_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+47,60,Female,47_left.jpg,47_right.jpg,moderate non proliferative retinopathy，myelinated nerve fibers,normal fundus,0,1,0,0,0,0,0,1
+49,47,Female,49_left.jpg,49_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+51,60,Male,51_left.jpg,51_right.jpg,normal fundus,epiretinal membrane over the macula,0,0,0,0,0,0,0,1
+52,67,Male,52_left.jpg,52_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+54,66,Female,54_left.jpg,54_right.jpg,normal fundus,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,0
+56,63,Female,56_left.jpg,56_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+58,74,Male,58_left.jpg,58_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+59,62,Female,59_left.jpg,59_right.jpg,normal fundus,central retinal artery occlusion,0,0,0,0,0,0,0,1
+60,54,Female,60_left.jpg,60_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+61,59,Male,61_left.jpg,61_right.jpg,epiretinal membrane，myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+63,76,Male,63_left.jpg,63_right.jpg,normal fundus,pigment epithelium proliferation,0,0,0,0,0,0,0,1
+65,56,Male,65_left.jpg,65_right.jpg,epiretinal membrane，lens dust,normal fundus,0,0,0,0,0,0,0,1
+66,62,Male,66_left.jpg,66_right.jpg,atrophy,normal fundus,0,0,0,0,0,0,0,1
+68,72,Female,68_left.jpg,68_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+69,43,Male,69_left.jpg,69_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+73,67,Male,73_left.jpg,73_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+74,68,Male,74_left.jpg,74_right.jpg,laser spot，white vessel，moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+78,46,Male,78_left.jpg,78_right.jpg,chorioretinal atrophy,normal fundus,0,0,0,0,0,0,0,1
+82,33,Male,82_left.jpg,82_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+83,61,Female,83_left.jpg,83_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+84,51,Female,84_left.jpg,84_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+85,67,Female,85_left.jpg,85_right.jpg,normal fundus,drusen，atrophic change,0,0,0,0,0,0,0,1
+88,71,Female,88_left.jpg,88_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+91,28,Male,91_left.jpg,91_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+92,53,Male,92_left.jpg,92_right.jpg,normal fundus,retinitis pigmentosa,0,0,0,0,0,0,0,1
+97,64,Female,97_left.jpg,97_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+98,69,Male,98_left.jpg,98_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+99,62,Female,99_left.jpg,99_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+100,59,Male,100_left.jpg,100_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+103,55,Female,103_left.jpg,103_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+105,61,Female,105_left.jpg,105_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+107,68,Female,107_left.jpg,107_right.jpg,normal fundus,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+108,54,Female,108_left.jpg,108_right.jpg,retinal pigment epithelium atrophy，diabetic retinopathy,normal fundus,0,1,0,0,0,0,0,1
+110,69,Male,110_left.jpg,110_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+112,57,Female,112_left.jpg,112_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+114,48,Male,114_left.jpg,114_right.jpg,spotted membranous change，spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+115,66,Female,115_left.jpg,115_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+117,65,Female,117_left.jpg,117_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+121,47,Female,121_left.jpg,121_right.jpg,epiretinal membrane，mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+122,50,Female,122_left.jpg,122_right.jpg,drusen，lens dust,normal fundus,0,0,0,0,0,0,0,1
+124,68,Female,124_left.jpg,124_right.jpg,normal fundus,lens dust，myelinated nerve fibers,0,0,0,0,0,0,0,1
+125,71,Male,125_left.jpg,125_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+128,67,Male,128_left.jpg,128_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+129,62,Female,129_left.jpg,129_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+132,63,Female,132_left.jpg,132_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+137,44,Male,137_left.jpg,137_right.jpg,normal fundus,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+140,44,Male,140_left.jpg,140_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+141,32,Male,141_left.jpg,141_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+143,54,Male,143_left.jpg,143_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+144,49,Female,144_left.jpg,144_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+146,57,Female,146_left.jpg,146_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+147,46,Male,147_left.jpg,147_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+149,57,Female,149_left.jpg,149_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+150,62,Male,150_left.jpg,150_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+151,48,Male,151_left.jpg,151_right.jpg,normal fundus,white vessel，proliferative diabetic retinopathy，suspected microvascular anomalies,0,1,0,0,0,0,0,1
+155,40,Male,155_left.jpg,155_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+159,69,Female,159_left.jpg,159_right.jpg,mild nonproliferative retinopathy，epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+160,40,Female,160_left.jpg,160_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+165,48,Male,165_left.jpg,165_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+166,65,Female,166_left.jpg,166_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+170,59,Male,170_left.jpg,170_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+172,68,Male,172_left.jpg,172_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+173,87,Male,173_left.jpg,173_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+174,71,Female,174_left.jpg,174_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+180,45,Female,180_left.jpg,180_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+182,64,Male,182_left.jpg,182_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+183,55,Male,183_left.jpg,183_right.jpg,lens dust，vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+187,56,Female,187_left.jpg,187_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+189,62,Male,189_left.jpg,189_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+190,51,Male,190_left.jpg,190_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+191,51,Female,191_left.jpg,191_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+194,57,Male,194_left.jpg,194_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+196,65,Male,196_left.jpg,196_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+197,66,Male,197_left.jpg,197_right.jpg,normal fundus,abnormal pigment ,0,0,0,0,0,0,0,1
+200,64,Female,200_left.jpg,200_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+202,63,Female,202_left.jpg,202_right.jpg,normal fundus,laser spot，moderate non proliferative retinopathy，white vessel,0,1,0,0,0,0,0,1
+205,58,Male,205_left.jpg,205_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+208,68,Female,208_left.jpg,208_right.jpg,central retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+213,44,Female,213_left.jpg,213_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+214,70,Male,214_left.jpg,214_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+215,53,Male,215_left.jpg,215_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+219,62,Male,219_left.jpg,219_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+226,50,Male,226_left.jpg,226_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+227,58,Female,227_left.jpg,227_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+228,54,Male,228_left.jpg,228_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+233,56,Male,233_left.jpg,233_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+236,65,Male,236_left.jpg,236_right.jpg,depigmentation of the retinal pigment epithelium,normal fundus,0,0,0,0,0,0,0,1
+237,55,Female,237_left.jpg,237_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+241,58,Male,241_left.jpg,241_right.jpg,normal fundus,oval yellow-white atrophy,0,0,0,0,0,0,0,1
+242,38,Female,242_left.jpg,242_right.jpg,suspected retinal vascular sheathing,normal fundus,0,0,0,0,0,0,0,1
+244,58,Male,244_left.jpg,244_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+245,65,Male,245_left.jpg,245_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+252,77,Female,252_left.jpg,252_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+253,55,Female,253_left.jpg,253_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+255,75,Female,255_left.jpg,255_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+258,58,Female,258_left.jpg,258_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+259,50,Female,259_left.jpg,259_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+264,58,Male,264_left.jpg,264_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+271,46,Male,271_left.jpg,271_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+273,57,Male,273_left.jpg,273_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+275,61,Female,275_left.jpg,275_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+276,66,Male,276_left.jpg,276_right.jpg,macular coloboma,normal fundus,0,0,0,0,0,0,0,1
+277,75,Male,277_left.jpg,277_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+278,73,Female,278_left.jpg,278_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+279,56,Female,279_left.jpg,279_right.jpg,moderate non proliferative retinopathy，epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+282,55,Female,282_left.jpg,282_right.jpg,moderate non proliferative retinopathy，branch retinal vein occlusion,normal fundus,0,1,0,0,0,0,0,1
+285,62,Male,285_left.jpg,285_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+287,60,Female,287_left.jpg,287_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+290,55,Female,290_left.jpg,290_right.jpg,normal fundus,retinochoroidal coloboma,0,0,0,0,0,0,0,1
+291,67,Male,291_left.jpg,291_right.jpg,normal fundus,moderate non proliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,1
+293,31,Male,293_left.jpg,293_right.jpg,retinitis pigmentosa,normal fundus,0,0,0,0,0,0,0,1
+294,69,Female,294_left.jpg,294_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+295,45,Male,295_left.jpg,295_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+298,55,Female,298_left.jpg,298_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+302,67,Female,302_left.jpg,302_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+303,47,Female,303_left.jpg,303_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+306,62,Female,306_left.jpg,306_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+307,61,Male,307_left.jpg,307_right.jpg,normal fundus,spotted membranous change,0,0,0,0,0,0,0,1
+310,33,Male,310_left.jpg,310_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+313,82,Male,313_left.jpg,313_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+317,24,Female,317_left.jpg,317_right.jpg,normal fundus,idiopathic choroidal neovascularization,0,0,0,0,0,0,0,1
+325,39,Male,325_left.jpg,325_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+326,55,Male,326_left.jpg,326_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+329,71,Male,329_left.jpg,329_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+330,65,Female,330_left.jpg,330_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+332,57,Female,332_left.jpg,332_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+333,45,Male,333_left.jpg,333_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+335,50,Female,335_left.jpg,335_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+336,66,Male,336_left.jpg,336_right.jpg,wedge white line change,normal fundus,0,0,0,0,0,0,0,1
+337,55,Male,337_left.jpg,337_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+339,63,Female,339_left.jpg,339_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+340,66,Male,340_left.jpg,340_right.jpg,moderate non proliferative retinopathy，drusen,normal fundus,0,1,0,0,0,0,0,1
+343,66,Male,343_left.jpg,343_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+346,54,Male,346_left.jpg,346_right.jpg,normal fundus,chorioretinal atrophy，epiretinal membrane,0,0,0,0,0,0,0,1
+347,67,Female,347_left.jpg,347_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+349,72,Male,349_left.jpg,349_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+350,55,Female,350_left.jpg,350_right.jpg,epiretinal membrane over the macula,normal fundus,0,0,0,0,0,0,0,1
+351,68,Female,351_left.jpg,351_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+353,55,Female,353_left.jpg,353_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+354,65,Male,354_left.jpg,354_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+356,54,Female,356_left.jpg,356_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+362,62,Male,362_left.jpg,362_right.jpg,normal fundus,old chorioretinopathy,0,0,0,0,0,0,0,1
+363,65,Female,363_left.jpg,363_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+364,45,Male,364_left.jpg,364_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+366,74,Male,366_left.jpg,366_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+370,57,Male,370_left.jpg,370_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+373,60,Female,373_left.jpg,373_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+376,58,Female,376_left.jpg,376_right.jpg,normal fundus,moderate non proliferative retinopathy，myelinated nerve fibers,0,1,0,0,0,0,0,1
+379,77,Female,379_left.jpg,379_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+381,43,Female,381_left.jpg,381_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+384,59,Male,384_left.jpg,384_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+385,58,Male,385_left.jpg,385_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+389,54,Male,389_left.jpg,389_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+390,59,Female,390_left.jpg,390_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+391,56,Male,391_left.jpg,391_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+394,63,Male,394_left.jpg,394_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+396,55,Male,396_left.jpg,396_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+399,69,Female,399_left.jpg,399_right.jpg,macular epiretinal membrane，severe nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+400,64,Male,400_left.jpg,400_right.jpg,normal fundus,drusen，drusen,0,0,0,0,0,0,0,1
+403,47,Female,403_left.jpg,403_right.jpg,chorioretinal atrophy with pigmentation proliferation，epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+405,61,Male,405_left.jpg,405_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+408,47,Female,408_left.jpg,408_right.jpg,epiretinal membrane over the macula,normal fundus,0,0,0,0,0,0,0,1
+416,60,Female,416_left.jpg,416_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+417,69,Female,417_left.jpg,417_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+418,51,Female,418_left.jpg,418_right.jpg,chorioretinal atrophy with pigmentation proliferation,normal fundus,0,0,0,0,0,0,0,1
+422,47,Male,422_left.jpg,422_right.jpg,macular epiretinal membrane，moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+423,70,Female,423_left.jpg,423_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+425,81,Female,425_left.jpg,425_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+426,56,Male,426_left.jpg,426_right.jpg,normal fundus,central retinal artery occlusion,0,0,0,0,0,0,0,1
+427,56,Female,427_left.jpg,427_right.jpg,laser spot，proliferative diabetic retinopathy，white vessel,normal fundus,0,1,0,0,0,0,0,1
+429,54,Female,429_left.jpg,429_right.jpg,normal fundus,congenital choroidal coloboma,0,0,0,0,0,0,0,1
+432,42,Male,432_left.jpg,432_right.jpg,normal fundus,retinochoroidal coloboma,0,0,0,0,0,0,0,1
+433,45,Female,433_left.jpg,433_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+434,70,Female,434_left.jpg,434_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+436,64,Male,436_left.jpg,436_right.jpg,normal fundus,moderate non proliferative retinopathy，abnormal pigment ,0,1,0,0,0,0,0,1
+437,53,Female,437_left.jpg,437_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+438,49,Female,438_left.jpg,438_right.jpg,lens dust，macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+439,79,Male,439_left.jpg,439_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+440,51,Female,440_left.jpg,440_right.jpg,normal fundus,atrophy,0,0,0,0,0,0,0,1
+443,59,Male,443_left.jpg,443_right.jpg,pigment epithelium proliferation,normal fundus,0,0,0,0,0,0,0,1
+456,71,Male,456_left.jpg,456_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+457,64,Female,457_left.jpg,457_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+458,72,Male,458_left.jpg,458_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+461,62,Female,461_left.jpg,461_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+463,45,Male,463_left.jpg,463_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+464,50,Female,464_left.jpg,464_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+467,70,Female,467_left.jpg,467_right.jpg,normal fundus,white vessel，moderate non proliferative retinopathy,0,1,0,0,0,0,0,1
+468,60,Female,468_left.jpg,468_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+470,45,Male,470_left.jpg,470_right.jpg,chorioretinal atrophy with pigmentation proliferation，lens dust,normal fundus,0,0,0,0,0,0,0,1
+476,61,Female,476_left.jpg,476_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+478,62,Male,478_left.jpg,478_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+481,69,Female,481_left.jpg,481_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+482,73,Female,482_left.jpg,482_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+483,49,Male,483_left.jpg,483_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+486,56,Male,486_left.jpg,486_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+488,54,Male,488_left.jpg,488_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+496,66,Female,496_left.jpg,496_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+500,53,Female,500_left.jpg,500_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+501,61,Male,501_left.jpg,501_right.jpg,epiretinal membrane over the macula，white vessel,normal fundus,0,0,0,0,0,0,0,1
+503,37,Male,503_left.jpg,503_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+508,55,Male,508_left.jpg,508_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+509,43,Female,509_left.jpg,509_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+511,68,Female,511_left.jpg,511_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+512,67,Female,512_left.jpg,512_right.jpg,mild nonproliferative retinopathy，epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+513,55,Female,513_left.jpg,513_right.jpg,normal fundus,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+515,54,Female,515_left.jpg,515_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+521,73,Female,521_left.jpg,521_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+522,62,Female,522_left.jpg,522_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+523,61,Female,523_left.jpg,523_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+524,44,Male,524_left.jpg,524_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+527,48,Male,527_left.jpg,527_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+529,63,Male,529_left.jpg,529_right.jpg,normal fundus,spotted membranous change,0,0,0,0,0,0,0,1
+530,50,Male,530_left.jpg,530_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+534,61,Female,534_left.jpg,534_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+536,50,Male,536_left.jpg,536_right.jpg,normal fundus,retinochoroidal coloboma，epiretinal membrane,0,0,0,0,0,0,0,1
+540,82,Male,540_left.jpg,540_right.jpg,normal fundus,dry age-related macular degeneration，diabetic retinopathy,0,1,0,0,1,0,0,0
+544,57,Male,544_left.jpg,544_right.jpg,normal fundus,moderate non proliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+545,62,Female,545_left.jpg,545_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+548,59,Male,548_left.jpg,548_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+549,70,Female,549_left.jpg,549_right.jpg,moderate non proliferative retinopathy，white vessel,normal fundus,0,1,0,0,0,0,0,1
+552,35,Male,552_left.jpg,552_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+554,33,Male,554_left.jpg,554_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+555,55,Male,555_left.jpg,555_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+559,48,Male,559_left.jpg,559_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+570,65,Female,570_left.jpg,570_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+573,53,Female,573_left.jpg,573_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+575,65,Male,575_left.jpg,575_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+580,64,Female,580_left.jpg,580_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+584,56,Male,584_left.jpg,584_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+587,53,Male,587_left.jpg,587_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+588,65,Female,588_left.jpg,588_right.jpg,normal fundus,morning glory syndrome,0,0,0,0,0,0,0,1
+589,67,Male,589_left.jpg,589_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+591,62,Male,591_left.jpg,591_right.jpg,normal fundus,epiretinal membrane over the macula,0,0,0,0,0,0,0,1
+598,50,Female,598_left.jpg,598_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+599,65,Male,599_left.jpg,599_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+602,63,Male,602_left.jpg,602_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+606,54,Male,606_left.jpg,606_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+610,59,Female,610_left.jpg,610_right.jpg,normal fundus,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+613,54,Male,613_left.jpg,613_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+614,44,Male,614_left.jpg,614_right.jpg,dry age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+617,62,Male,617_left.jpg,617_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+618,63,Male,618_left.jpg,618_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+620,55,Male,620_left.jpg,620_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+623,43,Female,623_left.jpg,623_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+628,66,Female,628_left.jpg,628_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+633,38,Male,633_left.jpg,633_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+638,52,Male,638_left.jpg,638_right.jpg,dry age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+641,47,Male,641_left.jpg,641_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+643,73,Female,643_left.jpg,643_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+648,55,Female,648_left.jpg,648_right.jpg,moderate non proliferative retinopathy，optic disc edema,normal fundus,0,1,0,0,0,0,0,1
+649,62,Male,649_left.jpg,649_right.jpg,normal fundus,mild nonproliferative retinopathy，epiretinal membrane,0,1,0,0,0,0,0,1
+650,59,Male,650_left.jpg,650_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+652,78,Male,652_left.jpg,652_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+653,44,Male,653_left.jpg,653_right.jpg,mild nonproliferative retinopathy，macular epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+655,50,Female,655_left.jpg,655_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+658,64,Male,658_left.jpg,658_right.jpg,normal fundus,optic disc edema,0,0,0,0,0,0,0,1
+662,70,Male,662_left.jpg,662_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+669,56,Male,669_left.jpg,669_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+671,65,Male,671_left.jpg,671_right.jpg,normal fundus,lens dust，drusen,0,0,0,0,0,0,0,1
+677,49,Male,677_left.jpg,677_right.jpg,moderate non proliferative retinopathy，vitreous degeneration,normal fundus,0,1,0,0,0,0,0,1
+679,51,Male,679_left.jpg,679_right.jpg,lens dust，drusen,normal fundus,0,0,0,0,0,0,0,1
+680,69,Female,680_left.jpg,680_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+683,46,Female,683_left.jpg,683_right.jpg,normal fundus,morning glory syndrome,0,0,0,0,0,0,0,1
+685,59,Male,685_left.jpg,685_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+689,28,Female,689_left.jpg,689_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+693,60,Female,693_left.jpg,693_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+694,64,Female,694_left.jpg,694_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+695,52,Female,695_left.jpg,695_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+696,43,Male,696_left.jpg,696_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+701,60,Male,701_left.jpg,701_right.jpg,normal fundus,moderate non proliferative retinopathy，retinal pigment epithelial hypertrophy,0,1,0,0,0,0,0,1
+702,65,Female,702_left.jpg,702_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+704,52,Female,704_left.jpg,704_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+705,61,Male,705_left.jpg,705_right.jpg,retinitis pigmentosa,normal fundus,0,0,0,0,0,0,0,1
+710,56,Female,710_left.jpg,710_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+715,66,Female,715_left.jpg,715_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+716,49,Female,716_left.jpg,716_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+717,79,Male,717_left.jpg,717_right.jpg,epiretinal membrane，drusen,normal fundus,0,0,0,0,0,0,0,1
+724,60,Male,724_left.jpg,724_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+728,59,Male,728_left.jpg,728_right.jpg,old branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+732,54,Male,732_left.jpg,732_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+734,74,Male,734_left.jpg,734_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+736,29,Male,736_left.jpg,736_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+737,41,Male,737_left.jpg,737_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+738,48,Male,738_left.jpg,738_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+740,56,Male,740_left.jpg,740_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+741,64,Female,741_left.jpg,741_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+742,45,Female,742_left.jpg,742_right.jpg,vitreous degeneration，vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+749,45,Male,749_left.jpg,749_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+751,70,Female,751_left.jpg,751_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+756,65,Female,756_left.jpg,756_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+758,51,Female,758_left.jpg,758_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+766,64,Male,766_left.jpg,766_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+770,53,Male,770_left.jpg,770_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+771,45,Female,771_left.jpg,771_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+772,70,Female,772_left.jpg,772_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+780,37,Male,780_left.jpg,780_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+781,65,Female,781_left.jpg,781_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+782,44,Male,782_left.jpg,782_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+785,76,Female,785_left.jpg,785_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+789,65,Female,789_left.jpg,789_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+795,56,Female,795_left.jpg,795_right.jpg,laser spot，moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+798,44,Male,798_left.jpg,798_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+800,62,Male,800_left.jpg,800_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+803,59,Male,803_left.jpg,803_right.jpg,normal fundus,macular epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+804,62,Female,804_left.jpg,804_right.jpg,normal fundus,spotted membranous change,0,0,0,0,0,0,0,1
+805,70,Male,805_left.jpg,805_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+807,72,Female,807_left.jpg,807_right.jpg,moderate non proliferative retinopathy，macular epiretinal membrane,normal fundus,0,1,0,0,0,0,0,1
+809,67,Male,809_left.jpg,809_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+810,57,Female,810_left.jpg,810_right.jpg,normal fundus,epiretinal membrane，mild nonproliferative retinopathy,0,1,0,0,0,0,0,1
+820,82,Female,820_left.jpg,820_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+822,59,Male,822_left.jpg,822_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+824,74,Female,824_left.jpg,824_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+827,49,Female,827_left.jpg,827_right.jpg,normal fundus,atrophic change,0,0,0,0,0,0,0,1
+828,63,Female,828_left.jpg,828_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+832,61,Male,832_left.jpg,832_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+834,47,Female,834_left.jpg,834_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+835,58,Female,835_left.jpg,835_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+837,45,Male,837_left.jpg,837_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+840,40,Male,840_left.jpg,840_right.jpg,idiopathic choroidal neovascularization,normal fundus,0,0,0,0,0,0,0,1
+841,64,Female,841_left.jpg,841_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+845,64,Female,845_left.jpg,845_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+846,54,Male,846_left.jpg,846_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+848,56,Male,848_left.jpg,848_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+854,74,Male,854_left.jpg,854_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+856,46,Male,856_left.jpg,856_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+859,61,Male,859_left.jpg,859_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+862,65,Female,862_left.jpg,862_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+866,51,Male,866_left.jpg,866_right.jpg,normal fundus,lens dust，vitreous degeneration,0,0,0,0,0,0,0,1
+869,40,Male,869_left.jpg,869_right.jpg,normal fundus,branch retinal vein occlusion,0,0,0,0,0,0,0,1
+872,64,Female,872_left.jpg,872_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+875,63,Female,875_left.jpg,875_right.jpg,epiretinal membrane，normal fundus，lens dust,normal fundus,0,0,0,0,0,0,0,1
+877,75,Female,877_left.jpg,877_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+878,60,Male,878_left.jpg,878_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+879,54,Female,879_left.jpg,879_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+883,63,Male,883_left.jpg,883_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+884,60,Female,884_left.jpg,884_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+885,54,Male,885_left.jpg,885_right.jpg,normal fundus,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+892,68,Male,892_left.jpg,892_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+893,34,Male,893_left.jpg,893_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+894,54,Male,894_left.jpg,894_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+896,57,Female,896_left.jpg,896_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+897,65,Male,897_left.jpg,897_right.jpg,vitreous degeneration，vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+900,64,Male,900_left.jpg,900_right.jpg,normal fundus,optic discitis,0,0,0,0,0,0,0,1
+901,57,Male,901_left.jpg,901_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+903,72,Male,903_left.jpg,903_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+906,59,Female,906_left.jpg,906_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+909,48,Male,909_left.jpg,909_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+912,74,Male,912_left.jpg,912_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+915,50,Male,915_left.jpg,915_right.jpg,normal fundus,branch retinal artery occlusion,0,0,0,0,0,0,0,1
+917,60,Male,917_left.jpg,917_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+918,60,Female,918_left.jpg,918_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+919,45,Male,919_left.jpg,919_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+922,45,Female,922_left.jpg,922_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+924,72,Female,924_left.jpg,924_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+925,43,Female,925_left.jpg,925_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+933,69,Male,933_left.jpg,933_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+939,41,Female,939_left.jpg,939_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+940,48,Female,940_left.jpg,940_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+942,46,Female,942_left.jpg,942_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+945,44,Male,945_left.jpg,945_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+946,60,Male,946_left.jpg,946_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+950,48,Female,950_left.jpg,950_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+951,41,Male,951_left.jpg,951_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+954,61,Female,954_left.jpg,954_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+965,45,Male,965_left.jpg,965_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+966,59,Female,966_left.jpg,966_right.jpg,epiretinal membrane，moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,1
+974,64,Male,974_left.jpg,974_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+975,66,Female,975_left.jpg,975_right.jpg,normal fundus,central retinal artery occlusion,0,0,0,0,0,0,0,1
+977,81,Female,977_left.jpg,977_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+979,56,Male,979_left.jpg,979_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+982,65,Male,982_left.jpg,982_right.jpg,normal fundus,retinal pigmentation,0,0,0,0,0,0,0,1
+984,69,Female,984_left.jpg,984_right.jpg,normal fundus,spotted membranous change,0,0,0,0,0,0,0,1
+987,64,Female,987_left.jpg,987_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+990,41,Female,990_left.jpg,990_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+994,65,Female,994_left.jpg,994_right.jpg,normal fundus,chorioretinal atrophy,0,0,0,0,0,0,0,1
+996,56,Male,996_left.jpg,996_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+1005,78,Female,1005_left.jpg,1005_right.jpg,macular hole,normal fundus,0,0,0,0,0,0,0,1
+1006,64,Male,1006_left.jpg,1006_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1008,65,Male,1008_left.jpg,1008_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1010,63,Female,1010_left.jpg,1010_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+1011,36,Male,1011_left.jpg,1011_right.jpg,normal fundus,drusen,0,0,0,0,0,0,0,1
+1013,66,Female,1013_left.jpg,1013_right.jpg,normal fundus,macular epiretinal membrane，drusen,0,0,0,0,0,0,0,1
+1014,70,Female,1014_left.jpg,1014_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+1016,62,Female,1016_left.jpg,1016_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1018,69,Male,1018_left.jpg,1018_right.jpg,laser spot，branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+1019,80,Female,1019_left.jpg,1019_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+1021,64,Female,1021_left.jpg,1021_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1023,67,Female,1023_left.jpg,1023_right.jpg,normal fundus,epiretinal membrane over the macula,0,0,0,0,0,0,0,1
+1028,50,Female,1028_left.jpg,1028_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+1032,67,Female,1032_left.jpg,1032_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1034,56,Male,1034_left.jpg,1034_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+1035,53,Male,1035_left.jpg,1035_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+1038,54,Female,1038_left.jpg,1038_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1039,82,Female,1039_left.jpg,1039_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1040,65,Male,1040_left.jpg,1040_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+1041,71,Female,1041_left.jpg,1041_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+1053,33,Female,1053_left.jpg,1053_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+1054,59,Male,1054_left.jpg,1054_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+1058,28,Female,1058_left.jpg,1058_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+1059,43,Male,1059_left.jpg,1059_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+1060,54,Male,1060_left.jpg,1060_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+1061,49,Female,1061_left.jpg,1061_right.jpg,white vessel，arteriosclerosis,normal fundus,0,0,0,0,0,0,0,1
+1066,62,Male,1066_left.jpg,1066_right.jpg,silicone oil eye,normal fundus,0,0,0,0,0,0,0,1
+1072,54,Female,1072_left.jpg,1072_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+1074,67,Female,1074_left.jpg,1074_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1075,67,Male,1075_left.jpg,1075_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+1080,60,Female,1080_left.jpg,1080_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1086,62,Male,1086_left.jpg,1086_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1089,56,Female,1089_left.jpg,1089_right.jpg,normal fundus,retinal vascular sheathing,0,0,0,0,0,0,0,1
+1090,55,Male,1090_left.jpg,1090_right.jpg,branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+1092,68,Female,1092_left.jpg,1092_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1093,53,Male,1093_left.jpg,1093_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1096,59,Female,1096_left.jpg,1096_right.jpg,normal fundus,lens dust，drusen,0,0,0,0,0,0,0,1
+1097,59,Male,1097_left.jpg,1097_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1109,60,Male,1109_left.jpg,1109_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+1113,56,Female,1113_left.jpg,1113_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+1114,67,Male,1114_left.jpg,1114_right.jpg,refractive media opacity,normal fundus,0,0,0,0,0,0,0,1
+1115,81,Female,1115_left.jpg,1115_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1117,65,Male,1117_left.jpg,1117_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+1118,47,Female,1118_left.jpg,1118_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+1119,65,Male,1119_left.jpg,1119_right.jpg,epiretinal membrane，chorioretinal atrophy,normal fundus,0,0,0,0,0,0,0,1
+1120,55,Male,1120_left.jpg,1120_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1121,47,Female,1121_left.jpg,1121_right.jpg,lens dust，drusen,normal fundus,0,0,0,0,0,0,0,1
+1122,65,Female,1122_left.jpg,1122_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1123,51,Female,1123_left.jpg,1123_right.jpg,normal fundus,atrophic change,0,0,0,0,0,0,0,1
+1124,63,Male,1124_left.jpg,1124_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+1126,64,Female,1126_left.jpg,1126_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1129,69,Female,1129_left.jpg,1129_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+1130,60,Female,1130_left.jpg,1130_right.jpg,spotted membranous change,normal fundus,0,0,0,0,0,0,0,1
+1132,56,Male,1132_left.jpg,1132_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+1133,56,Male,1133_left.jpg,1133_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+1142,60,Female,1142_left.jpg,1142_right.jpg,optic disc edema,normal fundus,0,0,0,0,0,0,0,1
+1143,45,Male,1143_left.jpg,1143_right.jpg,myelinated nerve fibers,normal fundus,0,0,0,0,0,0,0,1
+1145,40,Female,1145_left.jpg,1145_right.jpg,retinal pigmentation,normal fundus,0,0,0,0,0,0,0,1
+1146,59,Female,1146_left.jpg,1146_right.jpg,drusen,normal fundus,0,0,0,0,0,0,0,1
+1151,60,Male,1151_left.jpg,1151_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1160,69,Female,1160_left.jpg,1160_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1162,67,Male,1162_left.jpg,1162_right.jpg,normal fundus,retina fold,0,0,0,0,0,0,0,1
+1164,67,Female,1164_left.jpg,1164_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1165,44,Male,1165_left.jpg,1165_right.jpg,normal fundus,myelinated nerve fibers,0,0,0,0,0,0,0,1
+1166,59,Female,1166_left.jpg,1166_right.jpg,normal fundus,maculopathy,0,0,0,0,0,0,0,1
+1168,67,Female,1168_left.jpg,1168_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1169,26,Female,1169_left.jpg,1169_right.jpg,maculopathy,normal fundus,0,0,0,0,0,0,0,1
+1171,74,Female,1171_left.jpg,1171_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1172,65,Female,1172_left.jpg,1172_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+1173,59,Female,1173_left.jpg,1173_right.jpg,vitreous degeneration,normal fundus,0,0,0,0,0,0,0,1
+1176,65,Female,1176_left.jpg,1176_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1177,63,Female,1177_left.jpg,1177_right.jpg,depigmentation of the retinal pigment epithelium,normal fundus,0,0,0,0,0,0,0,1
+1186,54,Female,1186_left.jpg,1186_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1191,58,Male,1191_left.jpg,1191_right.jpg,dry age-related macular degeneration，diabetic retinopathy,normal fundus,0,1,0,0,1,0,0,0
+1195,62,Female,1195_left.jpg,1195_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1198,44,Female,1198_left.jpg,1198_right.jpg,epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1200,55,Female,1200_left.jpg,1200_right.jpg,normal fundus,epiretinal membrane,0,0,0,0,0,0,0,1
+1207,61,Female,1207_left.jpg,1207_right.jpg,macular epiretinal membrane,normal fundus,0,0,0,0,0,0,0,1
+1240,69,Female,1240_left.jpg,1240_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1242,1,Female,1242_left.jpg,1242_right.jpg,chorioretinal atrophy,normal fundus,0,0,0,0,0,0,0,1
+1245,65,Female,1245_left.jpg,1245_right.jpg,normal fundus,macular epiretinal membrane,0,0,0,0,0,0,0,1
+1253,60,Female,1253_left.jpg,1253_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+1262,70,Female,1262_left.jpg,1262_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1274,48,Female,1274_left.jpg,1274_right.jpg,normal fundus,suspected abnormal color of  optic disc,0,0,0,0,0,0,0,1
+1280,50,Female,1280_left.jpg,1280_right.jpg,dry age-related macular degeneration，glaucoma,normal fundus,0,0,1,0,1,0,0,0
+1296,60,Female,1296_left.jpg,1296_right.jpg,normal fundus,refractive media opacity,0,0,0,0,0,0,0,1
+1299,49,Female,1299_left.jpg,1299_right.jpg,old branch retinal vein occlusion,normal fundus,0,0,0,0,0,0,0,1
+1311,67,Female,1311_left.jpg,1311_right.jpg,normal fundus,vitreous degeneration,0,0,0,0,0,0,0,1
+1364,53,Female,1364_left.jpg,1364_right.jpg,normal fundus,moderate non proliferative retinopathy，pathological myopia,0,1,0,0,0,0,1,0
+1393,31,Female,1393_left.jpg,1393_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1397,56,Female,1397_left.jpg,1397_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1404,50,Female,1404_left.jpg,1404_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1406,78,Female,1406_left.jpg,1406_right.jpg,suspected glaucoma，mild nonproliferative retinopathy,normal fundus,0,1,1,0,0,0,0,0
+1414,66,Male,1414_left.jpg,1414_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1416,66,Female,1416_left.jpg,1416_right.jpg,normal fundus,suspected glaucoma,0,0,1,0,0,0,0,0
+1417,83,Male,1417_left.jpg,1417_right.jpg,normal fundus,suspected glaucoma,0,0,1,0,0,0,0,0
+1418,68,Male,1418_left.jpg,1418_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1421,60,Male,1421_left.jpg,1421_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1423,75,Male,1423_left.jpg,1423_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1424,74,Male,1424_left.jpg,1424_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1425,70,Female,1425_left.jpg,1425_right.jpg,normal fundus,suspected glaucoma,0,0,1,0,0,0,0,0
+1427,70,Male,1427_left.jpg,1427_right.jpg,normal fundus,suspected glaucoma,0,0,1,0,0,0,0,0
+1428,71,Female,1428_left.jpg,1428_right.jpg,suspected glaucoma，moderate non proliferative retinopathy,normal fundus,0,1,1,0,0,0,0,0
+1429,62,Female,1429_left.jpg,1429_right.jpg,suspected glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1435,79,Male,1435_left.jpg,1435_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1439,60,Female,1439_left.jpg,1439_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1441,50,Male,1441_left.jpg,1441_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1444,73,Female,1444_left.jpg,1444_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1447,56,Male,1447_left.jpg,1447_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1450,76,Female,1450_left.jpg,1450_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1452,57,Male,1452_left.jpg,1452_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1453,77,Male,1453_left.jpg,1453_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1460,62,Female,1460_left.jpg,1460_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1465,54,Male,1465_left.jpg,1465_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1468,79,Male,1468_left.jpg,1468_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+1476,68,Male,1476_left.jpg,1476_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1478,35,Male,1478_left.jpg,1478_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1479,76,Female,1479_left.jpg,1479_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1485,69,Female,1485_left.jpg,1485_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1486,61,Male,1486_left.jpg,1486_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1489,76,Female,1489_left.jpg,1489_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1490,79,Female,1490_left.jpg,1490_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+1491,60,Female,1491_left.jpg,1491_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1493,49,Male,1493_left.jpg,1493_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1494,38,Male,1494_left.jpg,1494_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1498,52,Male,1498_left.jpg,1498_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1503,49,Male,1503_left.jpg,1503_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1507,62,Male,1507_left.jpg,1507_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1510,56,Male,1510_left.jpg,1510_right.jpg,normal fundus,glaucoma,0,0,1,0,0,0,0,0
+1513,79,Female,1513_left.jpg,1513_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1514,33,Male,1514_left.jpg,1514_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1515,78,Male,1515_left.jpg,1515_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1519,68,Female,1519_left.jpg,1519_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1541,50,Male,1541_left.jpg,1541_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1556,66,Female,1556_left.jpg,1556_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1569,50,Male,1569_left.jpg,1569_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1590,1,Female,1590_left.jpg,1590_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1610,64,Male,1610_left.jpg,1610_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1611,70,Female,1611_left.jpg,1611_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1619,70,Female,1619_left.jpg,1619_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1620,62,Male,1620_left.jpg,1620_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1663,77,Male,1663_left.jpg,1663_right.jpg,pathological myopia,normal fundus,0,0,0,0,0,0,1,0
+1666,47,Male,1666_left.jpg,1666_right.jpg,normal fundus,pathological myopia,0,0,0,0,0,0,1,0
+1837,49,Male,1837_left.jpg,1837_right.jpg,normal fundus,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1868,63,Male,1868_left.jpg,1868_right.jpg,normal fundus,dry age-related macular degeneration,0,0,0,0,1,0,0,0
+1873,66,Male,1873_left.jpg,1873_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1876,62,Male,1876_left.jpg,1876_right.jpg,normal fundus,wet age-related macular degeneration,0,0,0,0,1,0,0,0
+1890,55,Female,1890_left.jpg,1890_right.jpg,wet age-related macular degeneration,normal fundus,0,0,0,0,1,0,0,0
+1975,55,Male,1975_left.jpg,1975_right.jpg,glaucoma,normal fundus,0,0,1,0,0,0,0,0
+1990,56,Female,1990_left.jpg,1990_right.jpg,normal fundus,myelinated nerve fibers，glaucoma,0,0,1,0,0,0,0,1
+2020,51,Male,2020_left.jpg,2020_right.jpg,myelinated nerve fibers，suspected glaucoma,normal fundus,0,0,1,0,0,0,0,1
+2095,76,Female,2095_left.jpg,2095_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2097,74,Female,2097_left.jpg,2097_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2106,81,Female,2106_left.jpg,2106_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2119,91,Male,2119_left.jpg,2119_right.jpg,normal fundus,cataract，lens dust,0,0,0,1,0,0,0,0
+2121,56,Male,2121_left.jpg,2121_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2125,83,Female,2125_left.jpg,2125_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2132,59,Female,2132_left.jpg,2132_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2136,76,Female,2136_left.jpg,2136_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2143,83,Female,2143_left.jpg,2143_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2149,73,Female,2149_left.jpg,2149_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2152,58,Female,2152_left.jpg,2152_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2154,83,Male,2154_left.jpg,2154_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2160,76,Female,2160_left.jpg,2160_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2162,63,Male,2162_left.jpg,2162_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2171,87,Female,2171_left.jpg,2171_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2172,73,Male,2172_left.jpg,2172_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2174,65,Female,2174_left.jpg,2174_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2175,63,Male,2175_left.jpg,2175_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2187,63,Female,2187_left.jpg,2187_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2190,84,Female,2190_left.jpg,2190_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2191,80,Female,2191_left.jpg,2191_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2193,50,Female,2193_left.jpg,2193_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2196,69,Female,2196_left.jpg,2196_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2197,52,Male,2197_left.jpg,2197_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2205,51,Female,2205_left.jpg,2205_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2215,69,Male,2215_left.jpg,2215_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2218,48,Male,2218_left.jpg,2218_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2235,64,Male,2235_left.jpg,2235_right.jpg,cataract,normal fundus,0,0,0,1,0,0,0,0
+2237,76,Male,2237_left.jpg,2237_right.jpg,normal fundus,cataract,0,0,0,1,0,0,0,0
+2329,53,Female,2329_left.jpg,2329_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2330,32,Female,2330_left.jpg,2330_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2331,59,Male,2331_left.jpg,2331_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2332,59,Female,2332_left.jpg,2332_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2333,30,Female,2333_left.jpg,2333_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2334,63,Female,2334_left.jpg,2334_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2335,55,Female,2335_left.jpg,2335_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2336,44,Female,2336_left.jpg,2336_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2337,61,Female,2337_left.jpg,2337_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2338,64,Male,2338_left.jpg,2338_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2339,35,Male,2339_left.jpg,2339_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2340,61,Male,2340_left.jpg,2340_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2341,69,Female,2341_left.jpg,2341_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2342,76,Male,2342_left.jpg,2342_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2343,53,Male,2343_left.jpg,2343_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2345,60,Male,2345_left.jpg,2345_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2346,47,Female,2346_left.jpg,2346_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2347,74,Female,2347_left.jpg,2347_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2348,67,Female,2348_left.jpg,2348_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2349,45,Male,2349_left.jpg,2349_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2351,51,Male,2351_left.jpg,2351_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2352,40,Male,2352_left.jpg,2352_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2353,51,Female,2353_left.jpg,2353_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2354,33,Female,2354_left.jpg,2354_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2355,35,Male,2355_left.jpg,2355_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2356,51,Male,2356_left.jpg,2356_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2359,46,Male,2359_left.jpg,2359_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2360,66,Male,2360_left.jpg,2360_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2361,46,Male,2361_left.jpg,2361_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2362,56,Male,2362_left.jpg,2362_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2363,66,Female,2363_left.jpg,2363_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2364,58,Male,2364_left.jpg,2364_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2365,56,Male,2365_left.jpg,2365_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2366,59,Male,2366_left.jpg,2366_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2367,75,Female,2367_left.jpg,2367_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2368,57,Male,2368_left.jpg,2368_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2369,55,Male,2369_left.jpg,2369_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2370,46,Female,2370_left.jpg,2370_right.jpg,normal fundus,normal fundus，lens dust,1,0,0,0,0,0,0,0
+2371,57,Female,2371_left.jpg,2371_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2372,80,Female,2372_left.jpg,2372_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2373,44,Male,2373_left.jpg,2373_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2374,47,Female,2374_left.jpg,2374_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2375,73,Male,2375_left.jpg,2375_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2376,65,Female,2376_left.jpg,2376_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2377,51,Male,2377_left.jpg,2377_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2378,80,Female,2378_left.jpg,2378_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2379,66,Male,2379_left.jpg,2379_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2380,67,Male,2380_left.jpg,2380_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2381,35,Male,2381_left.jpg,2381_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2382,47,Female,2382_left.jpg,2382_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2383,42,Male,2383_left.jpg,2383_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2384,65,Female,2384_left.jpg,2384_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2385,74,Female,2385_left.jpg,2385_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2386,62,Male,2386_left.jpg,2386_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2387,64,Female,2387_left.jpg,2387_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2388,54,Female,2388_left.jpg,2388_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2389,64,Male,2389_left.jpg,2389_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2390,67,Male,2390_left.jpg,2390_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2391,52,Female,2391_left.jpg,2391_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2392,68,Female,2392_left.jpg,2392_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2393,64,Female,2393_left.jpg,2393_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2394,73,Female,2394_left.jpg,2394_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2395,70,Male,2395_left.jpg,2395_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2396,62,Female,2396_left.jpg,2396_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2397,58,Male,2397_left.jpg,2397_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2398,55,Male,2398_left.jpg,2398_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2399,66,Male,2399_left.jpg,2399_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2400,68,Male,2400_left.jpg,2400_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2401,57,Female,2401_left.jpg,2401_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2402,57,Male,2402_left.jpg,2402_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2403,55,Female,2403_left.jpg,2403_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2404,36,Male,2404_left.jpg,2404_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2405,62,Female,2405_left.jpg,2405_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2406,53,Male,2406_left.jpg,2406_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2407,56,Female,2407_left.jpg,2407_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2408,78,Female,2408_left.jpg,2408_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2409,52,Male,2409_left.jpg,2409_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2410,61,Female,2410_left.jpg,2410_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2411,75,Female,2411_left.jpg,2411_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2412,60,Female,2412_left.jpg,2412_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2413,53,Female,2413_left.jpg,2413_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2414,60,Female,2414_left.jpg,2414_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2415,66,Female,2415_left.jpg,2415_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2416,72,Female,2416_left.jpg,2416_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2417,51,Male,2417_left.jpg,2417_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2418,40,Female,2418_left.jpg,2418_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2419,69,Female,2419_left.jpg,2419_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2420,64,Male,2420_left.jpg,2420_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2421,51,Female,2421_left.jpg,2421_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2422,63,Female,2422_left.jpg,2422_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2423,32,Female,2423_left.jpg,2423_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2424,58,Female,2424_left.jpg,2424_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2425,68,Male,2425_left.jpg,2425_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2426,54,Female,2426_left.jpg,2426_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2427,51,Female,2427_left.jpg,2427_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2429,68,Female,2429_left.jpg,2429_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2430,45,Female,2430_left.jpg,2430_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2431,51,Female,2431_left.jpg,2431_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2432,45,Female,2432_left.jpg,2432_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2433,33,Female,2433_left.jpg,2433_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2434,54,Male,2434_left.jpg,2434_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2435,28,Male,2435_left.jpg,2435_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2436,42,Male,2436_left.jpg,2436_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2437,74,Male,2437_left.jpg,2437_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2438,56,Female,2438_left.jpg,2438_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2439,58,Male,2439_left.jpg,2439_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2440,59,Female,2440_left.jpg,2440_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2441,60,Female,2441_left.jpg,2441_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2442,54,Male,2442_left.jpg,2442_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2443,46,Male,2443_left.jpg,2443_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2444,65,Female,2444_left.jpg,2444_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2445,58,Male,2445_left.jpg,2445_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2446,53,Male,2446_left.jpg,2446_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2447,34,Female,2447_left.jpg,2447_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2448,56,Male,2448_left.jpg,2448_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2449,48,Female,2449_left.jpg,2449_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2451,67,Male,2451_left.jpg,2451_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2452,58,Male,2452_left.jpg,2452_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2454,65,Female,2454_left.jpg,2454_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2456,48,Male,2456_left.jpg,2456_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2457,69,Male,2457_left.jpg,2457_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2458,52,Female,2458_left.jpg,2458_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2459,39,Female,2459_left.jpg,2459_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2460,66,Female,2460_left.jpg,2460_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2461,66,Male,2461_left.jpg,2461_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2462,53,Male,2462_left.jpg,2462_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2463,41,Female,2463_left.jpg,2463_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2465,62,Female,2465_left.jpg,2465_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2466,70,Male,2466_left.jpg,2466_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2467,69,Female,2467_left.jpg,2467_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2469,74,Female,2469_left.jpg,2469_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2470,46,Female,2470_left.jpg,2470_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2471,56,Female,2471_left.jpg,2471_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2472,60,Female,2472_left.jpg,2472_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2473,31,Male,2473_left.jpg,2473_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2474,58,Female,2474_left.jpg,2474_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2475,53,Male,2475_left.jpg,2475_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2476,70,Female,2476_left.jpg,2476_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2479,40,Female,2479_left.jpg,2479_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2480,63,Female,2480_left.jpg,2480_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2481,55,Male,2481_left.jpg,2481_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2482,64,Male,2482_left.jpg,2482_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2483,33,Male,2483_left.jpg,2483_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+2484,60,Male,2484_left.jpg,2484_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2485,56,Female,2485_left.jpg,2485_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2486,50,Female,2486_left.jpg,2486_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+2487,63,Male,2487_left.jpg,2487_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2488,48,Female,2488_left.jpg,2488_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2489,50,Male,2489_left.jpg,2489_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2490,60,Male,2490_left.jpg,2490_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2492,43,Male,2492_left.jpg,2492_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2493,40,Male,2493_left.jpg,2493_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2495,68,Female,2495_left.jpg,2495_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2496,52,Female,2496_left.jpg,2496_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2497,45,Male,2497_left.jpg,2497_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2498,59,Female,2498_left.jpg,2498_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2499,74,Female,2499_left.jpg,2499_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2500,35,Male,2500_left.jpg,2500_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2501,50,Male,2501_left.jpg,2501_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2502,40,Male,2502_left.jpg,2502_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2503,64,Female,2503_left.jpg,2503_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2504,65,Female,2504_left.jpg,2504_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2505,55,Female,2505_left.jpg,2505_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2506,66,Female,2506_left.jpg,2506_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2507,43,Male,2507_left.jpg,2507_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2508,74,Male,2508_left.jpg,2508_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2509,72,Female,2509_left.jpg,2509_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+2510,66,Male,2510_left.jpg,2510_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2511,53,Male,2511_left.jpg,2511_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2512,50,Male,2512_left.jpg,2512_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2513,69,Male,2513_left.jpg,2513_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2514,62,Male,2514_left.jpg,2514_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2515,39,Male,2515_left.jpg,2515_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2517,69,Male,2517_left.jpg,2517_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2518,56,Male,2518_left.jpg,2518_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2519,61,Female,2519_left.jpg,2519_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2520,69,Male,2520_left.jpg,2520_right.jpg,normal fundus,normal fundus，lens dust,1,0,0,0,0,0,0,0
+2521,78,Female,2521_left.jpg,2521_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2522,60,Male,2522_left.jpg,2522_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2523,53,Male,2523_left.jpg,2523_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2524,59,Male,2524_left.jpg,2524_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2525,34,Male,2525_left.jpg,2525_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2526,62,Female,2526_left.jpg,2526_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2527,70,Female,2527_left.jpg,2527_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2528,37,Male,2528_left.jpg,2528_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2529,59,Female,2529_left.jpg,2529_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2530,55,Male,2530_left.jpg,2530_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2531,44,Male,2531_left.jpg,2531_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2532,56,Female,2532_left.jpg,2532_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2533,56,Female,2533_left.jpg,2533_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2534,76,Male,2534_left.jpg,2534_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2535,60,Female,2535_left.jpg,2535_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2537,56,Male,2537_left.jpg,2537_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2538,58,Male,2538_left.jpg,2538_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2539,52,Female,2539_left.jpg,2539_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2540,64,Male,2540_left.jpg,2540_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2541,58,Male,2541_left.jpg,2541_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2542,73,Male,2542_left.jpg,2542_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2543,49,Male,2543_left.jpg,2543_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2544,57,Male,2544_left.jpg,2544_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2545,46,Male,2545_left.jpg,2545_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2547,59,Male,2547_left.jpg,2547_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2548,49,Male,2548_left.jpg,2548_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2549,46,Male,2549_left.jpg,2549_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2551,63,Female,2551_left.jpg,2551_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2552,73,Male,2552_left.jpg,2552_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2553,54,Female,2553_left.jpg,2553_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2554,57,Male,2554_left.jpg,2554_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2555,51,Male,2555_left.jpg,2555_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2556,62,Male,2556_left.jpg,2556_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2557,79,Male,2557_left.jpg,2557_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2558,65,Male,2558_left.jpg,2558_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2559,52,Male,2559_left.jpg,2559_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2560,38,Male,2560_left.jpg,2560_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2561,32,Male,2561_left.jpg,2561_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2562,41,Female,2562_left.jpg,2562_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2563,49,Male,2563_left.jpg,2563_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2564,60,Female,2564_left.jpg,2564_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2565,59,Female,2565_left.jpg,2565_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2566,62,Female,2566_left.jpg,2566_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+2567,47,Male,2567_left.jpg,2567_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2568,65,Female,2568_left.jpg,2568_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2569,68,Female,2569_left.jpg,2569_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2570,53,Male,2570_left.jpg,2570_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2572,48,Female,2572_left.jpg,2572_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2573,61,Male,2573_left.jpg,2573_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2574,54,Female,2574_left.jpg,2574_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2575,47,Female,2575_left.jpg,2575_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2576,67,Male,2576_left.jpg,2576_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2577,60,Male,2577_left.jpg,2577_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2579,41,Male,2579_left.jpg,2579_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2581,54,Female,2581_left.jpg,2581_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2583,66,Male,2583_left.jpg,2583_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2584,62,Female,2584_left.jpg,2584_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2585,56,Male,2585_left.jpg,2585_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2586,53,Female,2586_left.jpg,2586_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2587,46,Male,2587_left.jpg,2587_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2588,75,Male,2588_left.jpg,2588_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2590,50,Female,2590_left.jpg,2590_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2591,41,Male,2591_left.jpg,2591_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2592,38,Male,2592_left.jpg,2592_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2593,66,Female,2593_left.jpg,2593_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2594,61,Male,2594_left.jpg,2594_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2595,75,Male,2595_left.jpg,2595_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2596,63,Female,2596_left.jpg,2596_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2597,61,Male,2597_left.jpg,2597_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2599,61,Male,2599_left.jpg,2599_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2600,57,Male,2600_left.jpg,2600_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2601,67,Male,2601_left.jpg,2601_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2602,52,Female,2602_left.jpg,2602_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2603,45,Male,2603_left.jpg,2603_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2604,64,Female,2604_left.jpg,2604_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2605,64,Male,2605_left.jpg,2605_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2608,54,Female,2608_left.jpg,2608_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2609,66,Male,2609_left.jpg,2609_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2610,46,Female,2610_left.jpg,2610_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2612,56,Male,2612_left.jpg,2612_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2613,64,Male,2613_left.jpg,2613_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2614,56,Male,2614_left.jpg,2614_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2615,72,Female,2615_left.jpg,2615_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2616,52,Female,2616_left.jpg,2616_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2617,65,Male,2617_left.jpg,2617_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2618,58,Male,2618_left.jpg,2618_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2619,73,Female,2619_left.jpg,2619_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2621,72,Male,2621_left.jpg,2621_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2622,59,Male,2622_left.jpg,2622_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2623,45,Female,2623_left.jpg,2623_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2624,56,Male,2624_left.jpg,2624_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2625,51,Male,2625_left.jpg,2625_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2626,55,Female,2626_left.jpg,2626_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2627,64,Female,2627_left.jpg,2627_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2628,48,Male,2628_left.jpg,2628_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2629,34,Male,2629_left.jpg,2629_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2630,43,Male,2630_left.jpg,2630_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2631,52,Male,2631_left.jpg,2631_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2632,63,Male,2632_left.jpg,2632_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2633,62,Female,2633_left.jpg,2633_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2634,87,Female,2634_left.jpg,2634_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2635,55,Female,2635_left.jpg,2635_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2636,51,Female,2636_left.jpg,2636_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2637,60,Female,2637_left.jpg,2637_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2638,48,Male,2638_left.jpg,2638_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2639,65,Female,2639_left.jpg,2639_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2640,49,Male,2640_left.jpg,2640_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2641,32,Female,2641_left.jpg,2641_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2642,25,Male,2642_left.jpg,2642_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2643,28,Male,2643_left.jpg,2643_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2644,41,Male,2644_left.jpg,2644_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2645,51,Female,2645_left.jpg,2645_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2646,50,Female,2646_left.jpg,2646_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2647,43,Male,2647_left.jpg,2647_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2649,66,Male,2649_left.jpg,2649_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2650,51,Female,2650_left.jpg,2650_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2651,55,Female,2651_left.jpg,2651_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2652,49,Female,2652_left.jpg,2652_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+2653,31,Male,2653_left.jpg,2653_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2654,76,Male,2654_left.jpg,2654_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2655,64,Male,2655_left.jpg,2655_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2657,56,Female,2657_left.jpg,2657_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2658,48,Male,2658_left.jpg,2658_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2659,56,Male,2659_left.jpg,2659_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2660,66,Female,2660_left.jpg,2660_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2661,45,Female,2661_left.jpg,2661_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+2662,49,Female,2662_left.jpg,2662_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2663,61,Male,2663_left.jpg,2663_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2665,63,Male,2665_left.jpg,2665_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2666,61,Male,2666_left.jpg,2666_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2667,68,Female,2667_left.jpg,2667_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2668,45,Male,2668_left.jpg,2668_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2669,50,Male,2669_left.jpg,2669_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2670,75,Male,2670_left.jpg,2670_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2671,67,Male,2671_left.jpg,2671_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2672,28,Female,2672_left.jpg,2672_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2673,65,Male,2673_left.jpg,2673_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2675,49,Male,2675_left.jpg,2675_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2676,58,Female,2676_left.jpg,2676_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2677,89,Female,2677_left.jpg,2677_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2678,67,Female,2678_left.jpg,2678_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2679,51,Female,2679_left.jpg,2679_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2680,51,Female,2680_left.jpg,2680_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2681,66,Female,2681_left.jpg,2681_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2682,54,Male,2682_left.jpg,2682_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2683,57,Male,2683_left.jpg,2683_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2684,59,Female,2684_left.jpg,2684_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2685,57,Male,2685_left.jpg,2685_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2687,52,Male,2687_left.jpg,2687_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2688,47,Male,2688_left.jpg,2688_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2689,41,Female,2689_left.jpg,2689_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2690,34,Female,2690_left.jpg,2690_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2691,54,Female,2691_left.jpg,2691_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+2692,88,Female,2692_left.jpg,2692_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2693,35,Female,2693_left.jpg,2693_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2695,63,Male,2695_left.jpg,2695_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2696,50,Male,2696_left.jpg,2696_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2697,53,Female,2697_left.jpg,2697_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2698,74,Female,2698_left.jpg,2698_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2699,65,Female,2699_left.jpg,2699_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2701,56,Female,2701_left.jpg,2701_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2702,53,Female,2702_left.jpg,2702_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2703,70,Male,2703_left.jpg,2703_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2704,67,Male,2704_left.jpg,2704_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2705,42,Female,2705_left.jpg,2705_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2706,56,Male,2706_left.jpg,2706_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2707,60,Female,2707_left.jpg,2707_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2708,59,Female,2708_left.jpg,2708_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2709,47,Male,2709_left.jpg,2709_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2710,52,Male,2710_left.jpg,2710_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2711,53,Female,2711_left.jpg,2711_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2712,60,Male,2712_left.jpg,2712_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2713,57,Male,2713_left.jpg,2713_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2714,55,Male,2714_left.jpg,2714_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2715,57,Female,2715_left.jpg,2715_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2716,62,Female,2716_left.jpg,2716_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2717,59,Male,2717_left.jpg,2717_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2718,45,Male,2718_left.jpg,2718_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2720,65,Female,2720_left.jpg,2720_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2722,64,Female,2722_left.jpg,2722_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2723,48,Male,2723_left.jpg,2723_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2724,75,Male,2724_left.jpg,2724_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2725,47,Male,2725_left.jpg,2725_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2726,48,Female,2726_left.jpg,2726_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+2727,66,Male,2727_left.jpg,2727_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2728,36,Female,2728_left.jpg,2728_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2729,62,Female,2729_left.jpg,2729_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2730,50,Female,2730_left.jpg,2730_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2731,69,Female,2731_left.jpg,2731_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2732,43,Female,2732_left.jpg,2732_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2733,56,Male,2733_left.jpg,2733_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2735,51,Male,2735_left.jpg,2735_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2736,70,Male,2736_left.jpg,2736_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2737,56,Male,2737_left.jpg,2737_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2738,55,Male,2738_left.jpg,2738_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2739,46,Male,2739_left.jpg,2739_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2740,55,Male,2740_left.jpg,2740_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2742,53,Female,2742_left.jpg,2742_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2743,55,Male,2743_left.jpg,2743_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2744,40,Male,2744_left.jpg,2744_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2745,48,Male,2745_left.jpg,2745_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2746,62,Male,2746_left.jpg,2746_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2747,40,Male,2747_left.jpg,2747_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2748,55,Female,2748_left.jpg,2748_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2749,54,Female,2749_left.jpg,2749_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2750,59,Male,2750_left.jpg,2750_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2751,69,Female,2751_left.jpg,2751_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2753,70,Male,2753_left.jpg,2753_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2754,51,Male,2754_left.jpg,2754_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2755,61,Male,2755_left.jpg,2755_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2756,66,Male,2756_left.jpg,2756_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2757,58,Male,2757_left.jpg,2757_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2758,57,Male,2758_left.jpg,2758_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2760,62,Male,2760_left.jpg,2760_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2761,53,Female,2761_left.jpg,2761_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2762,53,Male,2762_left.jpg,2762_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2763,47,Male,2763_left.jpg,2763_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2764,48,Female,2764_left.jpg,2764_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2765,65,Male,2765_left.jpg,2765_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2766,37,Female,2766_left.jpg,2766_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2767,59,Male,2767_left.jpg,2767_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2768,67,Male,2768_left.jpg,2768_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2769,55,Female,2769_left.jpg,2769_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2770,59,Female,2770_left.jpg,2770_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2771,48,Female,2771_left.jpg,2771_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2772,41,Male,2772_left.jpg,2772_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2773,71,Female,2773_left.jpg,2773_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2774,71,Female,2774_left.jpg,2774_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2775,66,Male,2775_left.jpg,2775_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2776,54,Male,2776_left.jpg,2776_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2777,78,Female,2777_left.jpg,2777_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2778,56,Female,2778_left.jpg,2778_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2779,44,Male,2779_left.jpg,2779_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2780,57,Male,2780_left.jpg,2780_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2781,56,Female,2781_left.jpg,2781_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2782,64,Female,2782_left.jpg,2782_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2783,51,Female,2783_left.jpg,2783_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2784,74,Female,2784_left.jpg,2784_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2785,52,Male,2785_left.jpg,2785_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2786,61,Male,2786_left.jpg,2786_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2787,41,Female,2787_left.jpg,2787_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2788,58,Female,2788_left.jpg,2788_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2789,54,Female,2789_left.jpg,2789_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2790,61,Male,2790_left.jpg,2790_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2791,77,Male,2791_left.jpg,2791_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2792,54,Male,2792_left.jpg,2792_right.jpg,normal fundus，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2793,70,Male,2793_left.jpg,2793_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2794,56,Male,2794_left.jpg,2794_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2795,78,Female,2795_left.jpg,2795_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2796,48,Male,2796_left.jpg,2796_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2797,59,Male,2797_left.jpg,2797_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2798,60,Male,2798_left.jpg,2798_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2799,53,Male,2799_left.jpg,2799_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2800,63,Female,2800_left.jpg,2800_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2801,70,Female,2801_left.jpg,2801_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2802,65,Male,2802_left.jpg,2802_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2803,71,Male,2803_left.jpg,2803_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2804,60,Male,2804_left.jpg,2804_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2805,49,Male,2805_left.jpg,2805_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2806,75,Female,2806_left.jpg,2806_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2807,54,Male,2807_left.jpg,2807_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2808,25,Male,2808_left.jpg,2808_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2809,60,Female,2809_left.jpg,2809_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2810,48,Female,2810_left.jpg,2810_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2811,47,Female,2811_left.jpg,2811_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2812,63,Female,2812_left.jpg,2812_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2813,65,Female,2813_left.jpg,2813_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2814,62,Male,2814_left.jpg,2814_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2815,74,Male,2815_left.jpg,2815_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2816,55,Male,2816_left.jpg,2816_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2817,57,Male,2817_left.jpg,2817_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2818,49,Male,2818_left.jpg,2818_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2819,74,Female,2819_left.jpg,2819_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2820,59,Female,2820_left.jpg,2820_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2821,47,Female,2821_left.jpg,2821_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2822,64,Female,2822_left.jpg,2822_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2823,59,Male,2823_left.jpg,2823_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2824,60,Male,2824_left.jpg,2824_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2825,64,Female,2825_left.jpg,2825_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2826,54,Male,2826_left.jpg,2826_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2827,66,Male,2827_left.jpg,2827_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2828,60,Male,2828_left.jpg,2828_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2829,47,Male,2829_left.jpg,2829_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2830,60,Female,2830_left.jpg,2830_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2831,76,Female,2831_left.jpg,2831_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2832,63,Male,2832_left.jpg,2832_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2833,84,Female,2833_left.jpg,2833_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2834,59,Female,2834_left.jpg,2834_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2835,56,Female,2835_left.jpg,2835_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2836,53,Male,2836_left.jpg,2836_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2837,49,Male,2837_left.jpg,2837_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2838,52,Male,2838_left.jpg,2838_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2839,47,Male,2839_left.jpg,2839_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2841,78,Male,2841_left.jpg,2841_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2842,45,Female,2842_left.jpg,2842_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2843,60,Male,2843_left.jpg,2843_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2844,50,Male,2844_left.jpg,2844_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2845,50,Male,2845_left.jpg,2845_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2846,87,Male,2846_left.jpg,2846_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2847,57,Male,2847_left.jpg,2847_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2848,61,Female,2848_left.jpg,2848_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2849,50,Female,2849_left.jpg,2849_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2850,44,Male,2850_left.jpg,2850_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2851,40,Male,2851_left.jpg,2851_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2852,64,Male,2852_left.jpg,2852_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2853,69,Female,2853_left.jpg,2853_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2854,28,Male,2854_left.jpg,2854_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2855,45,Female,2855_left.jpg,2855_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2856,59,Male,2856_left.jpg,2856_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2857,55,Female,2857_left.jpg,2857_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2858,50,Female,2858_left.jpg,2858_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2859,69,Male,2859_left.jpg,2859_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2860,66,Female,2860_left.jpg,2860_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2861,78,Male,2861_left.jpg,2861_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2862,51,Female,2862_left.jpg,2862_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2864,65,Male,2864_left.jpg,2864_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2865,63,Female,2865_left.jpg,2865_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2866,58,Male,2866_left.jpg,2866_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2867,51,Male,2867_left.jpg,2867_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2868,53,Female,2868_left.jpg,2868_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2869,47,Male,2869_left.jpg,2869_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2871,57,Male,2871_left.jpg,2871_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2872,72,Male,2872_left.jpg,2872_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2873,35,Male,2873_left.jpg,2873_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2874,45,Male,2874_left.jpg,2874_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2876,67,Female,2876_left.jpg,2876_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2877,43,Female,2877_left.jpg,2877_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2878,56,Female,2878_left.jpg,2878_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2879,53,Male,2879_left.jpg,2879_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2880,49,Male,2880_left.jpg,2880_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2881,66,Male,2881_left.jpg,2881_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2882,48,Male,2882_left.jpg,2882_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2883,72,Male,2883_left.jpg,2883_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2884,82,Female,2884_left.jpg,2884_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2885,56,Female,2885_left.jpg,2885_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2886,66,Male,2886_left.jpg,2886_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2887,49,Female,2887_left.jpg,2887_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2888,14,Female,2888_left.jpg,2888_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2889,61,Female,2889_left.jpg,2889_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2890,53,Female,2890_left.jpg,2890_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2892,72,Male,2892_left.jpg,2892_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2895,33,Male,2895_left.jpg,2895_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2896,62,Female,2896_left.jpg,2896_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2897,66,Male,2897_left.jpg,2897_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2898,54,Male,2898_left.jpg,2898_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2899,55,Female,2899_left.jpg,2899_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2900,65,Male,2900_left.jpg,2900_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2901,59,Male,2901_left.jpg,2901_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2902,60,Male,2902_left.jpg,2902_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2903,19,Male,2903_left.jpg,2903_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2904,26,Male,2904_left.jpg,2904_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2905,38,Female,2905_left.jpg,2905_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2906,58,Male,2906_left.jpg,2906_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2907,58,Male,2907_left.jpg,2907_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2908,55,Female,2908_left.jpg,2908_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2909,70,Female,2909_left.jpg,2909_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2910,75,Male,2910_left.jpg,2910_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2911,66,Female,2911_left.jpg,2911_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2912,40,Male,2912_left.jpg,2912_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2913,68,Male,2913_left.jpg,2913_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2914,44,Female,2914_left.jpg,2914_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2915,61,Female,2915_left.jpg,2915_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2916,61,Male,2916_left.jpg,2916_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2917,48,Male,2917_left.jpg,2917_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2918,75,Male,2918_left.jpg,2918_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2919,63,Male,2919_left.jpg,2919_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2920,74,Female,2920_left.jpg,2920_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2921,60,Male,2921_left.jpg,2921_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2923,46,Male,2923_left.jpg,2923_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2924,57,Male,2924_left.jpg,2924_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2925,65,Male,2925_left.jpg,2925_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2926,52,Female,2926_left.jpg,2926_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2927,56,Male,2927_left.jpg,2927_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2929,65,Female,2929_left.jpg,2929_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2930,66,Female,2930_left.jpg,2930_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2931,67,Male,2931_left.jpg,2931_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2932,56,Male,2932_left.jpg,2932_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2933,50,Female,2933_left.jpg,2933_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2934,43,Male,2934_left.jpg,2934_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2935,61,Female,2935_left.jpg,2935_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2936,42,Male,2936_left.jpg,2936_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2937,85,Female,2937_left.jpg,2937_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2938,56,Female,2938_left.jpg,2938_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2939,53,Male,2939_left.jpg,2939_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2940,35,Female,2940_left.jpg,2940_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2941,55,Male,2941_left.jpg,2941_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2942,73,Male,2942_left.jpg,2942_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2943,45,Female,2943_left.jpg,2943_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2944,64,Female,2944_left.jpg,2944_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2945,65,Male,2945_left.jpg,2945_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2946,64,Female,2946_left.jpg,2946_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2948,60,Male,2948_left.jpg,2948_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2949,33,Male,2949_left.jpg,2949_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2950,45,Male,2950_left.jpg,2950_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2951,54,Male,2951_left.jpg,2951_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2952,69,Female,2952_left.jpg,2952_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2953,47,Male,2953_left.jpg,2953_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2954,51,Male,2954_left.jpg,2954_right.jpg,normal fundus,normal fundus，lens dust,1,0,0,0,0,0,0,0
+2955,53,Female,2955_left.jpg,2955_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2956,49,Male,2956_left.jpg,2956_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2957,62,Female,2957_left.jpg,2957_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2958,61,Female,2958_left.jpg,2958_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2960,40,Male,2960_left.jpg,2960_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2961,64,Female,2961_left.jpg,2961_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2962,67,Female,2962_left.jpg,2962_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2963,72,Male,2963_left.jpg,2963_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2964,48,Male,2964_left.jpg,2964_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2965,59,Male,2965_left.jpg,2965_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2966,52,Male,2966_left.jpg,2966_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2967,62,Male,2967_left.jpg,2967_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2968,57,Female,2968_left.jpg,2968_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+2969,69,Female,2969_left.jpg,2969_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2970,70,Female,2970_left.jpg,2970_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2971,39,Male,2971_left.jpg,2971_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2972,54,Female,2972_left.jpg,2972_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2973,63,Female,2973_left.jpg,2973_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2974,35,Female,2974_left.jpg,2974_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2975,71,Female,2975_left.jpg,2975_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2976,54,Female,2976_left.jpg,2976_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2977,64,Male,2977_left.jpg,2977_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2978,70,Male,2978_left.jpg,2978_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2979,53,Male,2979_left.jpg,2979_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2980,54,Male,2980_left.jpg,2980_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2981,68,Female,2981_left.jpg,2981_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2982,64,Female,2982_left.jpg,2982_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2983,42,Male,2983_left.jpg,2983_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2984,53,Male,2984_left.jpg,2984_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2985,61,Female,2985_left.jpg,2985_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2986,75,Male,2986_left.jpg,2986_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2987,66,Male,2987_left.jpg,2987_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2988,58,Female,2988_left.jpg,2988_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2989,44,Male,2989_left.jpg,2989_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2990,58,Female,2990_left.jpg,2990_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2991,30,Female,2991_left.jpg,2991_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2992,74,Male,2992_left.jpg,2992_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2993,49,Female,2993_left.jpg,2993_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2994,54,Male,2994_left.jpg,2994_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2995,53,Male,2995_left.jpg,2995_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2996,32,Female,2996_left.jpg,2996_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2997,55,Female,2997_left.jpg,2997_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2998,49,Male,2998_left.jpg,2998_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+2999,63,Male,2999_left.jpg,2999_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3000,59,Female,3000_left.jpg,3000_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3001,46,Female,3001_left.jpg,3001_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3002,61,Female,3002_left.jpg,3002_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3003,59,Male,3003_left.jpg,3003_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3004,66,Male,3004_left.jpg,3004_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3005,67,Female,3005_left.jpg,3005_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3007,59,Female,3007_left.jpg,3007_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3008,54,Male,3008_left.jpg,3008_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3009,74,Female,3009_left.jpg,3009_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3010,65,Female,3010_left.jpg,3010_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3011,62,Male,3011_left.jpg,3011_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3012,72,Male,3012_left.jpg,3012_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3013,44,Male,3013_left.jpg,3013_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3014,55,Female,3014_left.jpg,3014_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3015,35,Male,3015_left.jpg,3015_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3016,46,Female,3016_left.jpg,3016_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3017,60,Male,3017_left.jpg,3017_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3018,45,Male,3018_left.jpg,3018_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3019,57,Male,3019_left.jpg,3019_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+3020,45,Female,3020_left.jpg,3020_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3021,64,Male,3021_left.jpg,3021_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+3023,64,Female,3023_left.jpg,3023_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3025,58,Female,3025_left.jpg,3025_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3026,66,Female,3026_left.jpg,3026_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3027,62,Male,3027_left.jpg,3027_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3028,51,Male,3028_left.jpg,3028_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3029,43,Female,3029_left.jpg,3029_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3030,66,Male,3030_left.jpg,3030_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3033,15,Male,3033_left.jpg,3033_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3034,48,Male,3034_left.jpg,3034_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3035,80,Female,3035_left.jpg,3035_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3036,58,Female,3036_left.jpg,3036_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3037,80,Female,3037_left.jpg,3037_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3038,66,Male,3038_left.jpg,3038_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3040,54,Female,3040_left.jpg,3040_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3041,53,Male,3041_left.jpg,3041_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3042,66,Female,3042_left.jpg,3042_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3043,68,Female,3043_left.jpg,3043_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3044,60,Female,3044_left.jpg,3044_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3045,32,Female,3045_left.jpg,3045_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3047,62,Female,3047_left.jpg,3047_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3048,61,Male,3048_left.jpg,3048_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3049,46,Female,3049_left.jpg,3049_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+3050,52,Male,3050_left.jpg,3050_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3051,56,Male,3051_left.jpg,3051_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3052,71,Female,3052_left.jpg,3052_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3054,65,Male,3054_left.jpg,3054_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3056,52,Male,3056_left.jpg,3056_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3057,55,Female,3057_left.jpg,3057_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3058,66,Male,3058_left.jpg,3058_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3059,61,Male,3059_left.jpg,3059_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3061,45,Male,3061_left.jpg,3061_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3062,83,Female,3062_left.jpg,3062_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3063,53,Male,3063_left.jpg,3063_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3064,62,Female,3064_left.jpg,3064_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3065,60,Male,3065_left.jpg,3065_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3066,65,Female,3066_left.jpg,3066_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3067,62,Female,3067_left.jpg,3067_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3068,58,Male,3068_left.jpg,3068_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3069,65,Female,3069_left.jpg,3069_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3070,66,Female,3070_left.jpg,3070_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3071,67,Male,3071_left.jpg,3071_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3072,59,Female,3072_left.jpg,3072_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3073,63,Female,3073_left.jpg,3073_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3074,74,Male,3074_left.jpg,3074_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3075,35,Male,3075_left.jpg,3075_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3076,59,Female,3076_left.jpg,3076_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3077,52,Male,3077_left.jpg,3077_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3078,53,Male,3078_left.jpg,3078_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3079,66,Female,3079_left.jpg,3079_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3080,76,Male,3080_left.jpg,3080_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3081,67,Female,3081_left.jpg,3081_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3082,64,Male,3082_left.jpg,3082_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3083,66,Male,3083_left.jpg,3083_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3084,46,Male,3084_left.jpg,3084_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3085,60,Female,3085_left.jpg,3085_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3086,45,Male,3086_left.jpg,3086_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3087,54,Female,3087_left.jpg,3087_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3088,63,Female,3088_left.jpg,3088_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3089,56,Male,3089_left.jpg,3089_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3090,50,Male,3090_left.jpg,3090_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3091,24,Male,3091_left.jpg,3091_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3092,44,Female,3092_left.jpg,3092_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3093,73,Female,3093_left.jpg,3093_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3094,47,Male,3094_left.jpg,3094_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3095,74,Male,3095_left.jpg,3095_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3096,71,Female,3096_left.jpg,3096_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3097,58,Male,3097_left.jpg,3097_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3098,22,Female,3098_left.jpg,3098_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3099,61,Female,3099_left.jpg,3099_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3100,57,Male,3100_left.jpg,3100_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3101,59,Male,3101_left.jpg,3101_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3102,43,Male,3102_left.jpg,3102_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3103,78,Male,3103_left.jpg,3103_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3104,63,Male,3104_left.jpg,3104_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3105,60,Female,3105_left.jpg,3105_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3106,48,Male,3106_left.jpg,3106_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3107,44,Male,3107_left.jpg,3107_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3108,62,Female,3108_left.jpg,3108_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3109,69,Male,3109_left.jpg,3109_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3110,52,Male,3110_left.jpg,3110_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3111,60,Male,3111_left.jpg,3111_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3112,62,Male,3112_left.jpg,3112_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3113,63,Male,3113_left.jpg,3113_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3114,35,Male,3114_left.jpg,3114_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3115,62,Female,3115_left.jpg,3115_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3116,68,Female,3116_left.jpg,3116_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3117,55,Male,3117_left.jpg,3117_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3120,67,Male,3120_left.jpg,3120_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3121,69,Male,3121_left.jpg,3121_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3122,49,Female,3122_left.jpg,3122_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3123,66,Female,3123_left.jpg,3123_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3124,39,Female,3124_left.jpg,3124_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3125,52,Male,3125_left.jpg,3125_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3126,41,Male,3126_left.jpg,3126_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3127,58,Female,3127_left.jpg,3127_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3128,43,Female,3128_left.jpg,3128_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3129,59,Male,3129_left.jpg,3129_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3130,75,Male,3130_left.jpg,3130_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3131,37,Male,3131_left.jpg,3131_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3132,54,Female,3132_left.jpg,3132_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3134,33,Male,3134_left.jpg,3134_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3135,45,Male,3135_left.jpg,3135_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3136,45,Male,3136_left.jpg,3136_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3137,46,Female,3137_left.jpg,3137_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+3138,55,Male,3138_left.jpg,3138_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3139,54,Female,3139_left.jpg,3139_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3140,59,Male,3140_left.jpg,3140_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3141,47,Male,3141_left.jpg,3141_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3142,61,Male,3142_left.jpg,3142_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3143,66,Female,3143_left.jpg,3143_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3144,56,Female,3144_left.jpg,3144_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3145,57,Female,3145_left.jpg,3145_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3146,51,Female,3146_left.jpg,3146_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3147,55,Male,3147_left.jpg,3147_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3149,56,Male,3149_left.jpg,3149_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3150,44,Female,3150_left.jpg,3150_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3151,67,Female,3151_left.jpg,3151_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3152,62,Male,3152_left.jpg,3152_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3153,58,Female,3153_left.jpg,3153_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3155,48,Female,3155_left.jpg,3155_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3156,67,Male,3156_left.jpg,3156_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3157,62,Female,3157_left.jpg,3157_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3159,62,Male,3159_left.jpg,3159_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3160,37,Male,3160_left.jpg,3160_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3161,64,Male,3161_left.jpg,3161_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3162,33,Male,3162_left.jpg,3162_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3163,45,Male,3163_left.jpg,3163_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3164,54,Male,3164_left.jpg,3164_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3165,40,Male,3165_left.jpg,3165_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3166,43,Male,3166_left.jpg,3166_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3167,57,Female,3167_left.jpg,3167_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3168,53,Male,3168_left.jpg,3168_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3169,63,Male,3169_left.jpg,3169_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3170,69,Male,3170_left.jpg,3170_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3171,65,Male,3171_left.jpg,3171_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3172,68,Female,3172_left.jpg,3172_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3173,46,Male,3173_left.jpg,3173_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3174,66,Female,3174_left.jpg,3174_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3175,70,Female,3175_left.jpg,3175_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3176,64,Female,3176_left.jpg,3176_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3177,66,Female,3177_left.jpg,3177_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3178,61,Female,3178_left.jpg,3178_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3179,75,Male,3179_left.jpg,3179_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3180,61,Female,3180_left.jpg,3180_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3182,53,Female,3182_left.jpg,3182_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3183,52,Male,3183_left.jpg,3183_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3184,46,Male,3184_left.jpg,3184_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+3185,63,Male,3185_left.jpg,3185_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3186,53,Male,3186_left.jpg,3186_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3187,43,Female,3187_left.jpg,3187_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3188,60,Female,3188_left.jpg,3188_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3189,62,Female,3189_left.jpg,3189_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3190,51,Male,3190_left.jpg,3190_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3191,57,Male,3191_left.jpg,3191_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3192,58,Male,3192_left.jpg,3192_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3193,54,Female,3193_left.jpg,3193_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3194,47,Male,3194_left.jpg,3194_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3195,66,Male,3195_left.jpg,3195_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3196,56,Male,3196_left.jpg,3196_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3197,45,Male,3197_left.jpg,3197_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3198,56,Male,3198_left.jpg,3198_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3199,36,Male,3199_left.jpg,3199_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3200,57,Male,3200_left.jpg,3200_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3201,46,Male,3201_left.jpg,3201_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3202,62,Male,3202_left.jpg,3202_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3203,74,Female,3203_left.jpg,3203_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3204,62,Male,3204_left.jpg,3204_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+3205,60,Male,3205_left.jpg,3205_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3206,71,Male,3206_left.jpg,3206_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3207,47,Female,3207_left.jpg,3207_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3208,67,Male,3208_left.jpg,3208_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3209,62,Male,3209_left.jpg,3209_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3210,60,Female,3210_left.jpg,3210_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3211,35,Female,3211_left.jpg,3211_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3212,64,Male,3212_left.jpg,3212_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3213,65,Male,3213_left.jpg,3213_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3214,47,Male,3214_left.jpg,3214_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3215,64,Male,3215_left.jpg,3215_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3216,81,Male,3216_left.jpg,3216_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3217,47,Male,3217_left.jpg,3217_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3218,60,Male,3218_left.jpg,3218_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3219,69,Male,3219_left.jpg,3219_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3221,53,Male,3221_left.jpg,3221_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3222,60,Male,3222_left.jpg,3222_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3223,56,Male,3223_left.jpg,3223_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3224,53,Male,3224_left.jpg,3224_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3225,67,Male,3225_left.jpg,3225_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3226,63,Male,3226_left.jpg,3226_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3227,52,Male,3227_left.jpg,3227_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3228,56,Female,3228_left.jpg,3228_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3229,70,Male,3229_left.jpg,3229_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3230,57,Female,3230_left.jpg,3230_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3231,58,Female,3231_left.jpg,3231_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3232,59,Female,3232_left.jpg,3232_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3234,60,Male,3234_left.jpg,3234_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3235,53,Female,3235_left.jpg,3235_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3236,63,Male,3236_left.jpg,3236_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3237,55,Female,3237_left.jpg,3237_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3238,55,Male,3238_left.jpg,3238_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3240,57,Female,3240_left.jpg,3240_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3241,42,Female,3241_left.jpg,3241_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3242,46,Male,3242_left.jpg,3242_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3243,56,Female,3243_left.jpg,3243_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3244,45,Female,3244_left.jpg,3244_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3245,72,Female,3245_left.jpg,3245_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3246,42,Male,3246_left.jpg,3246_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3247,64,Female,3247_left.jpg,3247_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3248,82,Female,3248_left.jpg,3248_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3249,56,Male,3249_left.jpg,3249_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3250,44,Male,3250_left.jpg,3250_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3251,66,Female,3251_left.jpg,3251_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3252,70,Female,3252_left.jpg,3252_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3253,64,Female,3253_left.jpg,3253_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3254,46,Male,3254_left.jpg,3254_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3255,63,Male,3255_left.jpg,3255_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3256,68,Male,3256_left.jpg,3256_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3257,56,Male,3257_left.jpg,3257_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3258,64,Female,3258_left.jpg,3258_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3259,54,Female,3259_left.jpg,3259_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3260,57,Female,3260_left.jpg,3260_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3261,53,Male,3261_left.jpg,3261_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3262,57,Male,3262_left.jpg,3262_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3263,51,Female,3263_left.jpg,3263_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+3264,63,Male,3264_left.jpg,3264_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3266,57,Female,3266_left.jpg,3266_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3267,37,Male,3267_left.jpg,3267_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3268,55,Female,3268_left.jpg,3268_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3269,61,Male,3269_left.jpg,3269_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3270,46,Male,3270_left.jpg,3270_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3271,42,Female,3271_left.jpg,3271_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3272,55,Female,3272_left.jpg,3272_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3273,53,Male,3273_left.jpg,3273_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3274,39,Female,3274_left.jpg,3274_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3275,59,Female,3275_left.jpg,3275_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3276,50,Male,3276_left.jpg,3276_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3281,58,Male,3281_left.jpg,3281_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+3282,54,Female,3282_left.jpg,3282_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3283,63,Female,3283_left.jpg,3283_right.jpg,normal fundus,normal fundus，lens dust,1,0,0,0,0,0,0,0
+3284,61,Male,3284_left.jpg,3284_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3285,54,Female,3285_left.jpg,3285_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3286,56,Male,3286_left.jpg,3286_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3287,56,Male,3287_left.jpg,3287_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3288,60,Male,3288_left.jpg,3288_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3289,60,Female,3289_left.jpg,3289_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3290,72,Male,3290_left.jpg,3290_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3291,61,Female,3291_left.jpg,3291_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3292,57,Female,3292_left.jpg,3292_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+3293,46,Male,3293_left.jpg,3293_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3294,43,Female,3294_left.jpg,3294_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3295,54,Male,3295_left.jpg,3295_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3296,61,Male,3296_left.jpg,3296_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3297,65,Female,3297_left.jpg,3297_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3298,65,Male,3298_left.jpg,3298_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3299,57,Male,3299_left.jpg,3299_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3300,60,Female,3300_left.jpg,3300_right.jpg,normal fundus，lens dust,normal fundus,1,0,0,0,0,0,0,0
+3301,46,Male,3301_left.jpg,3301_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3302,56,Male,3302_left.jpg,3302_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3303,29,Female,3303_left.jpg,3303_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3304,64,Female,3304_left.jpg,3304_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3305,86,Female,3305_left.jpg,3305_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3306,62,Male,3306_left.jpg,3306_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3307,78,Female,3307_left.jpg,3307_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3308,62,Female,3308_left.jpg,3308_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3309,56,Male,3309_left.jpg,3309_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3310,56,Male,3310_left.jpg,3310_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3311,49,Male,3311_left.jpg,3311_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3312,74,Male,3312_left.jpg,3312_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3313,60,Male,3313_left.jpg,3313_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3315,57,Male,3315_left.jpg,3315_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3316,70,Female,3316_left.jpg,3316_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3317,47,Male,3317_left.jpg,3317_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3318,57,Male,3318_left.jpg,3318_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3319,71,Female,3319_left.jpg,3319_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3320,49,Male,3320_left.jpg,3320_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3321,58,Male,3321_left.jpg,3321_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3323,53,Female,3323_left.jpg,3323_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3324,41,Female,3324_left.jpg,3324_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3325,62,Male,3325_left.jpg,3325_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+3326,52,Male,3326_left.jpg,3326_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3327,68,Male,3327_left.jpg,3327_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3328,51,Male,3328_left.jpg,3328_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3329,44,Male,3329_left.jpg,3329_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3330,49,Male,3330_left.jpg,3330_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3331,60,Female,3331_left.jpg,3331_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3332,80,Male,3332_left.jpg,3332_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3333,71,Male,3333_left.jpg,3333_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3334,66,Female,3334_left.jpg,3334_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3335,65,Female,3335_left.jpg,3335_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3336,62,Male,3336_left.jpg,3336_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3337,49,Male,3337_left.jpg,3337_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3338,54,Male,3338_left.jpg,3338_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3339,55,Female,3339_left.jpg,3339_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3340,53,Female,3340_left.jpg,3340_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3341,66,Female,3341_left.jpg,3341_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3342,60,Male,3342_left.jpg,3342_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3343,60,Female,3343_left.jpg,3343_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3344,55,Male,3344_left.jpg,3344_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3345,65,Female,3345_left.jpg,3345_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3346,65,Female,3346_left.jpg,3346_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3347,63,Female,3347_left.jpg,3347_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3348,33,Male,3348_left.jpg,3348_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3350,30,Male,3350_left.jpg,3350_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3351,55,Female,3351_left.jpg,3351_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3352,57,Female,3352_left.jpg,3352_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3353,42,Female,3353_left.jpg,3353_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3354,76,Male,3354_left.jpg,3354_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3355,63,Female,3355_left.jpg,3355_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3356,47,Male,3356_left.jpg,3356_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3357,69,Male,3357_left.jpg,3357_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3358,71,Female,3358_left.jpg,3358_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3359,72,Female,3359_left.jpg,3359_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3360,49,Male,3360_left.jpg,3360_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3361,64,Male,3361_left.jpg,3361_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3362,55,Female,3362_left.jpg,3362_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3363,62,Female,3363_left.jpg,3363_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3364,56,Male,3364_left.jpg,3364_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3365,60,Male,3365_left.jpg,3365_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3366,54,Female,3366_left.jpg,3366_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3367,40,Male,3367_left.jpg,3367_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3368,55,Female,3368_left.jpg,3368_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3370,50,Female,3370_left.jpg,3370_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3371,36,Male,3371_left.jpg,3371_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3372,74,Female,3372_left.jpg,3372_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3373,38,Male,3373_left.jpg,3373_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3374,55,Female,3374_left.jpg,3374_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3375,54,Male,3375_left.jpg,3375_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3376,53,Female,3376_left.jpg,3376_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3377,72,Male,3377_left.jpg,3377_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3378,55,Male,3378_left.jpg,3378_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3379,45,Female,3379_left.jpg,3379_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3380,60,Female,3380_left.jpg,3380_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3381,65,Female,3381_left.jpg,3381_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3382,59,Female,3382_left.jpg,3382_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3383,68,Male,3383_left.jpg,3383_right.jpg,lens dust，normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3384,67,Male,3384_left.jpg,3384_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3385,43,Male,3385_left.jpg,3385_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3386,49,Male,3386_left.jpg,3386_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3387,56,Male,3387_left.jpg,3387_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3388,82,Female,3388_left.jpg,3388_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3389,49,Male,3389_left.jpg,3389_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3390,62,Female,3390_left.jpg,3390_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3391,46,Male,3391_left.jpg,3391_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3392,56,Male,3392_left.jpg,3392_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3393,67,Female,3393_left.jpg,3393_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3394,62,Female,3394_left.jpg,3394_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3395,45,Male,3395_left.jpg,3395_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3397,51,Male,3397_left.jpg,3397_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3398,48,Female,3398_left.jpg,3398_right.jpg,normal fundus,lens dust，normal fundus,1,0,0,0,0,0,0,0
+3399,60,Female,3399_left.jpg,3399_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3400,53,Female,3400_left.jpg,3400_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3401,66,Male,3401_left.jpg,3401_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3403,59,Male,3403_left.jpg,3403_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3404,63,Female,3404_left.jpg,3404_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3405,52,Male,3405_left.jpg,3405_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3406,46,Female,3406_left.jpg,3406_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3407,52,Male,3407_left.jpg,3407_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3408,72,Male,3408_left.jpg,3408_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3409,57,Female,3409_left.jpg,3409_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3410,72,Male,3410_left.jpg,3410_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3411,61,Male,3411_left.jpg,3411_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3412,70,Female,3412_left.jpg,3412_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3414,62,Male,3414_left.jpg,3414_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3415,70,Female,3415_left.jpg,3415_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3416,65,Male,3416_left.jpg,3416_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3417,66,Male,3417_left.jpg,3417_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3418,50,Male,3418_left.jpg,3418_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3419,64,Male,3419_left.jpg,3419_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3420,55,Female,3420_left.jpg,3420_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3421,40,Male,3421_left.jpg,3421_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3422,75,Male,3422_left.jpg,3422_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3423,50,Male,3423_left.jpg,3423_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3424,24,Female,3424_left.jpg,3424_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3425,58,Male,3425_left.jpg,3425_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3426,73,Female,3426_left.jpg,3426_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3427,55,Female,3427_left.jpg,3427_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3428,60,Male,3428_left.jpg,3428_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3429,79,Male,3429_left.jpg,3429_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3430,53,Male,3430_left.jpg,3430_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3431,51,Female,3431_left.jpg,3431_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3432,76,Female,3432_left.jpg,3432_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3433,34,Male,3433_left.jpg,3433_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3434,56,Male,3434_left.jpg,3434_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3435,52,Female,3435_left.jpg,3435_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3436,58,Female,3436_left.jpg,3436_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3437,42,Female,3437_left.jpg,3437_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3438,67,Male,3438_left.jpg,3438_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3439,61,Female,3439_left.jpg,3439_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3440,63,Male,3440_left.jpg,3440_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3441,44,Male,3441_left.jpg,3441_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3442,49,Male,3442_left.jpg,3442_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3443,65,Male,3443_left.jpg,3443_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3444,34,Male,3444_left.jpg,3444_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3445,51,Male,3445_left.jpg,3445_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3446,56,Female,3446_left.jpg,3446_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3448,63,Male,3448_left.jpg,3448_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3450,59,Male,3450_left.jpg,3450_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3485,70,Male,3485_left.jpg,3485_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+3937,57,Male,3937_left.jpg,3937_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+3940,42,Female,3940_left.jpg,3940_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+3941,61,Male,3941_left.jpg,3941_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+3943,54,Male,3943_left.jpg,3943_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+3949,67,Male,3949_left.jpg,3949_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+3954,58,Female,3954_left.jpg,3954_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+3960,55,Male,3960_left.jpg,3960_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+3961,46,Male,3961_left.jpg,3961_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+3970,59,Female,3970_left.jpg,3970_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+3977,43,Female,3977_left.jpg,3977_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+3983,60,Female,3983_left.jpg,3983_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+3984,55,Male,3984_left.jpg,3984_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+3998,35,Male,3998_left.jpg,3998_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+3999,54,Female,3999_left.jpg,3999_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4016,35,Female,4016_left.jpg,4016_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4020,41,Female,4020_left.jpg,4020_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4023,65,Male,4023_left.jpg,4023_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4024,63,Female,4024_left.jpg,4024_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4026,55,Male,4026_left.jpg,4026_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4027,67,Female,4027_left.jpg,4027_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4036,56,Male,4036_left.jpg,4036_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4038,75,Female,4038_left.jpg,4038_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4052,55,Male,4052_left.jpg,4052_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4056,52,Female,4056_left.jpg,4056_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4057,42,Male,4057_left.jpg,4057_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4058,61,Male,4058_left.jpg,4058_right.jpg,normal fundus,post retinal laser surgery,0,0,0,0,0,0,0,1
+4059,69,Male,4059_left.jpg,4059_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4060,57,Male,4060_left.jpg,4060_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4063,51,Female,4063_left.jpg,4063_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4067,54,Female,4067_left.jpg,4067_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4069,55,Male,4069_left.jpg,4069_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4074,67,Male,4074_left.jpg,4074_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4076,75,Female,4076_left.jpg,4076_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4079,54,Female,4079_left.jpg,4079_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4082,71,Female,4082_left.jpg,4082_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4100,60,Female,4100_left.jpg,4100_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4101,51,Male,4101_left.jpg,4101_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4106,54,Female,4106_left.jpg,4106_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4111,70,Male,4111_left.jpg,4111_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4114,66,Female,4114_left.jpg,4114_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4115,60,Male,4115_left.jpg,4115_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4117,63,Female,4117_left.jpg,4117_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4118,50,Female,4118_left.jpg,4118_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4123,67,Female,4123_left.jpg,4123_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4126,64,Male,4126_left.jpg,4126_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4128,59,Female,4128_left.jpg,4128_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4130,58,Female,4130_left.jpg,4130_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4139,61,Male,4139_left.jpg,4139_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4141,70,Female,4141_left.jpg,4141_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4146,57,Female,4146_left.jpg,4146_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4152,66,Female,4152_left.jpg,4152_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4153,64,Female,4153_left.jpg,4153_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4154,63,Female,4154_left.jpg,4154_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4156,36,Male,4156_left.jpg,4156_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4159,57,Male,4159_left.jpg,4159_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4163,46,Male,4163_left.jpg,4163_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4167,54,Male,4167_left.jpg,4167_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4172,59,Female,4172_left.jpg,4172_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4176,52,Female,4176_left.jpg,4176_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4182,53,Male,4182_left.jpg,4182_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4186,46,Male,4186_left.jpg,4186_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4193,53,Female,4193_left.jpg,4193_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4194,50,Female,4194_left.jpg,4194_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4197,41,Female,4197_left.jpg,4197_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4200,66,Female,4200_left.jpg,4200_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4203,66,Female,4203_left.jpg,4203_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4206,55,Female,4206_left.jpg,4206_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4208,47,Male,4208_left.jpg,4208_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4209,62,Female,4209_left.jpg,4209_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4218,45,Male,4218_left.jpg,4218_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4219,63,Male,4219_left.jpg,4219_right.jpg,normal fundus,post retinal laser surgery,0,0,0,0,0,0,0,1
+4224,52,Female,4224_left.jpg,4224_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4225,53,Male,4225_left.jpg,4225_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4229,64,Male,4229_left.jpg,4229_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4230,67,Male,4230_left.jpg,4230_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4231,59,Female,4231_left.jpg,4231_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4237,46,Male,4237_left.jpg,4237_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4238,69,Female,4238_left.jpg,4238_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4239,62,Male,4239_left.jpg,4239_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4240,50,Female,4240_left.jpg,4240_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4242,62,Male,4242_left.jpg,4242_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4245,56,Male,4245_left.jpg,4245_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4248,62,Female,4248_left.jpg,4248_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4251,49,Male,4251_left.jpg,4251_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4253,58,Male,4253_left.jpg,4253_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4256,66,Female,4256_left.jpg,4256_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4261,35,Male,4261_left.jpg,4261_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4267,64,Female,4267_left.jpg,4267_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4269,61,Female,4269_left.jpg,4269_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4271,54,Female,4271_left.jpg,4271_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4272,40,Female,4272_left.jpg,4272_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4274,54,Female,4274_left.jpg,4274_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4275,69,Female,4275_left.jpg,4275_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4276,65,Female,4276_left.jpg,4276_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4283,61,Male,4283_left.jpg,4283_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4287,54,Male,4287_left.jpg,4287_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4288,69,Female,4288_left.jpg,4288_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4290,51,Male,4290_left.jpg,4290_right.jpg,low image quality,normal fundus,1,0,0,0,0,0,0,0
+4292,67,Male,4292_left.jpg,4292_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4297,67,Female,4297_left.jpg,4297_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4298,59,Male,4298_left.jpg,4298_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4300,49,Female,4300_left.jpg,4300_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4302,44,Male,4302_left.jpg,4302_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4308,48,Male,4308_left.jpg,4308_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4309,43,Male,4309_left.jpg,4309_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4316,36,Male,4316_left.jpg,4316_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4322,45,Male,4322_left.jpg,4322_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4325,60,Male,4325_left.jpg,4325_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4328,47,Male,4328_left.jpg,4328_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4329,58,Male,4329_left.jpg,4329_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4330,57,Female,4330_left.jpg,4330_right.jpg,normal fundus,mild nonproliferative retinopathy，dry age-related macular degeneration,0,1,0,0,1,0,0,0
+4333,42,Male,4333_left.jpg,4333_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4335,66,Female,4335_left.jpg,4335_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4336,54,Male,4336_left.jpg,4336_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4338,54,Male,4338_left.jpg,4338_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4339,52,Male,4339_left.jpg,4339_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4343,45,Male,4343_left.jpg,4343_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4348,48,Female,4348_left.jpg,4348_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4351,38,Male,4351_left.jpg,4351_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4352,60,Female,4352_left.jpg,4352_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4354,39,Male,4354_left.jpg,4354_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4355,52,Male,4355_left.jpg,4355_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4360,54,Female,4360_left.jpg,4360_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4361,62,Female,4361_left.jpg,4361_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4362,50,Female,4362_left.jpg,4362_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4368,38,Male,4368_left.jpg,4368_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4373,65,Female,4373_left.jpg,4373_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4374,58,Female,4374_left.jpg,4374_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4377,54,Female,4377_left.jpg,4377_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4387,47,Female,4387_left.jpg,4387_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4389,54,Male,4389_left.jpg,4389_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4392,17,Male,4392_left.jpg,4392_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4395,60,Female,4395_left.jpg,4395_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4408,59,Female,4408_left.jpg,4408_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4409,60,Male,4409_left.jpg,4409_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4410,45,Male,4410_left.jpg,4410_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4411,52,Female,4411_left.jpg,4411_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4414,73,Female,4414_left.jpg,4414_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4415,31,Male,4415_left.jpg,4415_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4417,52,Male,4417_left.jpg,4417_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4422,68,Female,4422_left.jpg,4422_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4426,58,Female,4426_left.jpg,4426_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4428,57,Female,4428_left.jpg,4428_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4437,50,Male,4437_left.jpg,4437_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4438,56,Male,4438_left.jpg,4438_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4440,60,Male,4440_left.jpg,4440_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4452,48,Female,4452_left.jpg,4452_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4453,42,Female,4453_left.jpg,4453_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4455,65,Male,4455_left.jpg,4455_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4458,65,Male,4458_left.jpg,4458_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4459,50,Female,4459_left.jpg,4459_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4464,51,Male,4464_left.jpg,4464_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4465,45,Female,4465_left.jpg,4465_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4468,65,Male,4468_left.jpg,4468_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4469,52,Male,4469_left.jpg,4469_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4475,66,Male,4475_left.jpg,4475_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4476,61,Male,4476_left.jpg,4476_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4486,78,Female,4486_left.jpg,4486_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4487,55,Female,4487_left.jpg,4487_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4489,54,Female,4489_left.jpg,4489_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4496,53,Female,4496_left.jpg,4496_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4500,67,Female,4500_left.jpg,4500_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4506,56,Male,4506_left.jpg,4506_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4512,55,Male,4512_left.jpg,4512_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4523,59,Male,4523_left.jpg,4523_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4527,49,Male,4527_left.jpg,4527_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4528,62,Male,4528_left.jpg,4528_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4531,48,Male,4531_left.jpg,4531_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4535,59,Male,4535_left.jpg,4535_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4542,54,Male,4542_left.jpg,4542_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4543,67,Male,4543_left.jpg,4543_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4544,42,Female,4544_left.jpg,4544_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4548,53,Male,4548_left.jpg,4548_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4556,68,Male,4556_left.jpg,4556_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4563,54,Male,4563_left.jpg,4563_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4570,55,Male,4570_left.jpg,4570_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4571,51,Male,4571_left.jpg,4571_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+4576,50,Female,4576_left.jpg,4576_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4577,71,Male,4577_left.jpg,4577_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4578,54,Female,4578_left.jpg,4578_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4583,28,Male,4583_left.jpg,4583_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4586,49,Female,4586_left.jpg,4586_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4589,56,Male,4589_left.jpg,4589_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4590,40,Male,4590_left.jpg,4590_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4594,66,Female,4594_left.jpg,4594_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4602,59,Male,4602_left.jpg,4602_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4608,50,Female,4608_left.jpg,4608_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4614,58,Male,4614_left.jpg,4614_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4618,58,Male,4618_left.jpg,4618_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4621,67,Male,4621_left.jpg,4621_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4625,70,Female,4625_left.jpg,4625_right.jpg,normal fundus,moderate non proliferative retinopathy,0,1,0,0,0,0,0,0
+4626,68,Male,4626_left.jpg,4626_right.jpg,moderate non proliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4637,45,Male,4637_left.jpg,4637_right.jpg,normal fundus,normal fundus,1,0,0,0,0,0,0,0
+4638,32,Female,4638_left.jpg,4638_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4639,60,Female,4639_left.jpg,4639_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4641,56,Male,4641_left.jpg,4641_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4642,52,Male,4642_left.jpg,4642_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4644,60,Female,4644_left.jpg,4644_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4660,51,Male,4660_left.jpg,4660_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4671,48,Male,4671_left.jpg,4671_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
+4672,65,Male,4672_left.jpg,4672_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4683,58,Male,4683_left.jpg,4683_right.jpg,normal fundus,mild nonproliferative retinopathy,0,1,0,0,0,0,0,0
+4689,54,Male,4689_left.jpg,4689_right.jpg,mild nonproliferative retinopathy,normal fundus,0,1,0,0,0,0,0,0
